@@ -18,7 +18,7 @@ Nous voulons permettre à l'utilisateur de trouver le trajet le plus optimal pou
 
 Afin de pouvoir utiliser l'application veuillez lancer le programme **run** de l'archive *webapp* :
 ```
-python3 run.py
+python3 webapp/run.py
 ```
 Enfin, connectez-vous à l'adresse suivante: **http://127.0.0.1:8000/**.
 
