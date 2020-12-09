@@ -38,6 +38,7 @@ Notre programme présente certaines limites:
 - Toutes les jonctions entre les différents transports se font à pieds ce qui donne parfois des résultats très bizarres
 - Nous ne prenons pas en compte les transports en commun des villes ou les voitures
 - Les trajets entre deux gares, arrêts de bus, ou autre, se font en ligne droite donc les tracés ne correspondents pas parfaitement au trajet emprunté.
+- On ne considère pas les temps d'attentes entre deux transports
 
 ## Contenu de l'archive
 Cette archive contient 2 dossiers:

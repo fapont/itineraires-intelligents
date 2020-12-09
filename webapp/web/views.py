@@ -19,6 +19,8 @@ def compute_trajet():
     # Récupération des coordonnées des adresses
     from_url = "https://api-adresse.data.gouv.fr/search/?q=" + quote(request.form["adress-from"]) + "&type=&autocomplete=1"
     to_url = "https://api-adresse.data.gouv.fr/search/?q=" + quote(request.form["adress-to"]) + "&type=&autocomplete=1"
+    adress_from = request.form["adress-from"]
+    adress_to = request.form["adress-to"]
     fr = j.loads(requests.get(from_url).content.decode())["features"][0]["geometry"]["coordinates"]
     to = j.loads(requests.get(to_url).content.decode())["features"][0]["geometry"]["coordinates"]
 

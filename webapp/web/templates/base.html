@@ -33,7 +33,7 @@
                 <div class="form-row mb-3">
                   <div class="col input-group">
                     <div class="slidecontainer">
-                      <div class="text-white">Ecologie: <strong id="e-d">5</strong></div>
+                      <div class="text-white">Ecologie: <strong id="n-e">5</strong></div>
                       <input type="range" min="1" max="10" value="5" class="form-control-range" id= "range-e" name="score-ecologie">
                     </div>
                   </div>
@@ -47,7 +47,7 @@
                   <div class="text-center text-white">Point de départ</div>
                   <div class="form-row container-fluid p-0">
                     <div class="dropdown container-fluid p-0">
-                      <input type="text" class="w-100" id="search-from" name="adress-from" placeholder="Départ" oninput="matchNames(this.id)">
+                    <input type="text" class="w-100" id="search-from" name="adress-from" placeholder="Départ" oninput="matchNames(this.id)" value={{ adress_from }}>
                       <div class="dropdown-menu" id="dropdown-from">
                       </div>
                     </div>
@@ -55,7 +55,7 @@
                   <div class="text-center text-white mt-2">Point d'arrivée</div>
                   <div class="form-row container-fluid p-0">
                     <div class="dropdown container-fluid p-0">
-                      <input type="text" class="w-100" id="search-to" name="adress-to" placeholder="Arrivée" oninput="matchNames(this.id)">
+                      <input type="text" class="w-100" id="search-to" name="adress-to" placeholder="Arrivée" oninput="matchNames(this.id)" value={{ adress_to }}>
                       <div class="dropdown-menu" id="dropdown-to">
                       </div>
                     </div>
