@@ -1,0 +1,722 @@
+point_1,point_1,point_1,point_2,point_2,point_2,duree (min),distance (km),empreinte carbone (gCO2),prix (euros)
+nom,latitude,longitude,nom,latitude,longitude,,,,
+Gare de Agde,43.31757,3.46602,Gare de Béziers,43.33623,3.21922,14.5,20.077,48.2,2.21
+Gare de Agde,43.31757,3.46602,Gare de Sète,43.41281,3.6964,15.5,21.43,51.4,2.36
+Gare de Agen,44.20797,0.6209,Gare de Bordeaux-St-Jean,44.82654,-0.55619,75.6,115.97,278.3,12.76
+Gare de Agen,44.20797,0.6209,Gare de Montauban-Ville-Bourbon,44.01464,1.34197,40.0,61.47,147.5,6.76
+Gare de Agen,44.20797,0.6209,Gare de Toulouse-Matabiau,43.61146,1.45356,62.0,94.096,225.8,10.35
+Gare de Aime-la-Plagne,45.55437,6.64888,Gare de Bourg-St-Maurice,45.61852,6.77148,15.0,11.916,28.6,1.31
+Gare de Aime-la-Plagne,45.55437,6.64888,Gare de Landry,45.57421,6.73387,13.0,6.976,16.7,0.77
+Gare de Aime-la-Plagne,45.55437,6.64888,Gare de Moûtiers-Salins-Brides,45.48648,6.53138,21.18,11.869,28.5,1.31
+Gare de Aix-en-Provence-TGV,43.45515,5.31726,Gare de Avignon-TGV,43.92196,4.78615,22.0,67.237,161.4,7.4
+Gare de Aix-en-Provence-TGV,43.45515,5.31726,Gare de Lyon-Part-Dieu,45.76059,4.85944,88.0,258.982,621.6,28.49
+Gare de Aix-en-Provence-TGV,43.45515,5.31726,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,72.25,252.746,606.6,27.8
+Gare de Aix-en-Provence-TGV,43.45515,5.31726,Gare de Marseille-St-Charles,43.30273,5.38065,19.56,17.711,42.5,1.95
+Gare de Aix-en-Provence-TGV,43.45515,5.31726,Gare de Toulon,43.12832,5.92946,52.5,61.467,147.5,6.76
+Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,Gare de Albertville,45.67318,6.38324,52.0,36.863,88.5,4.05
+Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,Gare de Annecy,45.90206,6.12182,33.0,28.968,69.5,3.19
+Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,15.6,13.02,31.2,1.43
+Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,Gare de Grenoble,45.19146,5.71453,73.0,57.27,137.4,6.3
+Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,Gare de Mâcon-Loché-TGV,46.2829,4.77895,91.38,109.603,263.0,12.06
+Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,190.33,440.962,1058.3,48.51
+Gare de Albertville,45.67318,6.38324,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,42.16,37.8,90.7,4.16
+Gare de Albertville,45.67318,6.38324,Gare de Grenoble,45.19146,5.71453,80.0,74.802,179.5,8.23
+Gare de Albertville,45.67318,6.38324,Gare de Moûtiers-Salins-Brides,45.48648,6.53138,39.33,23.755,57.0,2.61
+Gare de Albertville,45.67318,6.38324,Gare de Mâcon-Loché-TGV,46.2829,4.77895,146.67,141.337,339.2,15.55
+Gare de Albertville,45.67318,6.38324,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,238.7,464.717,1115.3,51.12
+Gare de Ancenis,47.36946,-1.17761,Gare de Angers-St-Laud,47.46443,-0.55695,25.0,47.893,114.9,5.27
+Gare de Ancenis,47.36946,-1.17761,Gare de Nantes,47.2175,-1.54193,20.0,32.265,77.4,3.55
+Gare de Angers-St-Laud,47.46443,-0.55695,Gare de Le Mans,47.99558,0.19214,46.25,81.432,195.4,8.96
+Gare de Angers-St-Laud,47.46443,-0.55695,Gare de Massy-TGV,48.72603,2.26157,91.5,252.034,604.9,27.72
+Gare de Angers-St-Laud,47.46443,-0.55695,Gare de Nantes,47.2175,-1.54193,43.08,79.158,190.0,8.71
+Gare de Angers-St-Laud,47.46443,-0.55695,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,88.4,262.66,630.4,28.89
+Gare de Angers-St-Laud,47.46443,-0.55695,Gare de Sablé-sur-Sarthe,47.84172,-0.34205,22.0,44.948,107.9,4.94
+Gare de Angers-St-Laud,47.46443,-0.55695,Gare de Saumur,47.26897,-0.07143,24.0,42.551,102.1,4.68
+Gare de Angers-St-Laud,47.46443,-0.55695,Gare de St-Pierre-des-Corps,47.38573,0.72505,53.0,96.87,232.5,10.66
+Gare de Angoulême,45.65393,0.16453,Gare de Bordeaux-St-Jean,44.82654,-0.55619,41.33,107.962,259.1,11.88
+Gare de Angoulême,45.65393,0.16453,Gare de Libourne,44.91588,-0.23637,42.71,87.884,210.9,9.67
+Gare de Angoulême,45.65393,0.16453,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,111.0,389.99,936.0,42.9
+Gare de Angoulême,45.65393,0.16453,Gare de Poitiers,46.58218,0.33308,43.83,104.064,249.8,11.45
+Gare de Angoulême,45.65393,0.16453,Gare de St-Pierre-des-Corps,47.38573,0.72505,62.5,197.346,473.6,21.71
+Gare de Annecy,45.90206,6.12182,Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,27.25,28.968,69.5,3.19
+Gare de Annecy,45.90206,6.12182,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,36.0,40.02,96.0,4.4
+Gare de Annemasse,46.19923,6.23639,Gare de Bellegarde-s-V. Gare,46.1097,5.82365,39.89,33.325,80.0,3.67
+Gare de Annemasse,46.19923,6.23639,Gare de Cluses (Hte-Savoie),46.06142,6.58268,52.0,30.782,73.9,3.39
+Gare de Annemasse,46.19923,6.23639,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,224.0,394.312,946.3,43.37
+Gare de Annemasse,46.19923,6.23639,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,222.0,413.168,991.6,45.45
+Gare de Annemasse,46.19923,6.23639,Gare de Thonon-les-Bains,46.36898,6.48156,48.0,26.677,64.0,2.93
+Gare de Antibes,43.58579,7.11952,Gare de Cannes,43.55391,7.01973,12.0,8.789,21.1,0.97
+Gare de Antibes,43.58579,7.11952,Gare de Nice-Ville,43.70471,7.26179,20.5,17.496,42.0,1.92
+Gare de Arcachon,44.65892,-1.16537,Gare de Biganos-Facture,44.63748,-0.96602,14.0,15.954,38.3,1.75
+Gare de Arcachon,44.65892,-1.16537,Gare de La Teste,44.63696,-1.14298,4.0,3.017,7.2,0.33
+Gare de Arles,43.68484,4.63202,Gare de Avignon-Centre,43.94188,4.80526,21.0,31.792,76.3,3.5
+Gare de Arles,43.68484,4.63202,Gare de Miramas,43.58074,4.9996,22.67,31.777,76.3,3.5
+Gare de Arras,50.28682,2.78113,Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,47.75,143.481,344.4,15.78
+Gare de Arras,50.28682,2.78113,Gare de Douai,50.37168,3.08996,19.2,23.874,57.3,2.63
+Gare de Arras,50.28682,2.78113,Gare de Lens,50.42677,2.8282,22.22,15.921,38.2,1.75
+Gare de Arras,50.28682,2.78113,Gare de Lille Europe,50.63885,3.07575,31.83,44.367,106.5,4.88
+Gare de Arras,50.28682,2.78113,Gare de Lille Flandres,50.6362,3.07102,36.0,43.95,105.5,4.83
+Gare de Arras,50.28682,2.78113,Gare de Paris Gare du Nord,48.88014,2.35489,59.18,159.454,382.7,17.54
+Gare de Arras,50.28682,2.78113,Gare de TGV Haute-Picardie,49.8592,2.83165,22.2,47.7,114.5,5.25
+Gare de Auray,47.68019,-3.0,Gare de Lorient,47.7552,-3.36635,19.0,28.657,68.8,3.15
+Gare de Auray,47.68019,-3.0,Gare de Vannes,47.66532,-2.75252,15.0,18.609,44.7,2.05
+Gare de Avignon-Centre,43.94188,4.80526,Gare de Arles,43.68484,4.63202,19.67,31.792,76.3,3.5
+Gare de Avignon-Centre,43.94188,4.80526,Gare de Orange,44.13731,4.8195,16.5,21.767,52.2,2.39
+Gare de Avignon-TGV,43.92196,4.78615,Gare de Aix-en-Provence-TGV,43.45515,5.31726,23.83,67.237,161.4,7.4
+Gare de Avignon-TGV,43.92196,4.78615,Gare de Lyon-Part-Dieu,45.76059,4.85944,68.78,204.591,491.0,22.51
+Gare de Avignon-TGV,43.92196,4.78615,Gare de Lyon-Perrache,45.74879,4.82594,68.0,203.221,487.7,22.35
+Gare de Avignon-TGV,43.92196,4.78615,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,58.44,201.399,483.4,22.15
+Gare de Avignon-TGV,43.92196,4.78615,Gare de Marseille-St-Charles,43.30273,5.38065,35.33,83.882,201.3,9.23
+Gare de Avignon-TGV,43.92196,4.78615,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,168.64,577.946,1387.1,63.57
+Gare de Avignon-TGV,43.92196,4.78615,Gare de Toulon,43.12832,5.92946,68.0,127.649,306.4,14.04
+Gare de Avignon-TGV,43.92196,4.78615,Gare de Valence-TGV,44.99137,4.97894,37.43,119.931,287.8,13.19
+Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,Gare de Champagne-Ardenne,49.21164,3.98879,40.25,105.745,253.8,11.63
+Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,Gare de Lille Europe,50.63885,3.07575,62.12,185.405,445.0,20.39
+Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,Gare de Lille Flandres,50.6362,3.07102,68.08,185.05,444.1,20.36
+Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,20.16,21.414,51.4,2.36
+Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,Gare de TGV Haute-Picardie,49.8592,2.83165,37.77,96.964,232.7,10.67
+Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,Gare de Tourcoing,50.71673,3.16801,74.0,195.244,468.6,21.48
+Gare de Baden-Baden,48.7903,8.19119,Gare de Karlsruhe-Hbf,48.99441,8.40029,24.0,27.372,65.7,3.01
+Gare de Baden-Baden,48.7903,8.19119,Gare de Strasbourg,48.58517,7.73397,28.0,40.593,97.4,4.47
+Gare de Bar-le-Duc,48.77363,5.16702,Gare de Vitry-le-François,48.71773,4.58723,23.0,42.976,103.1,4.73
+Gare de Bardonecchia-Stazione,45.07643,6.70964,Gare de Modane,45.19356,6.65918,18.33,13.617,32.7,1.5
+Gare de Bardonecchia-Stazione,45.07643,6.70964,Gare de Oulx-Cesana-Clav-Sestri,45.03879,6.83154,10.0,10.453,25.1,1.15
+Gare de Bayeux,49.26944,-0.69771,Gare de Caen,49.17654,-0.34827,20.0,27.408,65.8,3.01
+Gare de Bayeux,49.26944,-0.69771,Gare de Lison,49.22705,-1.05028,18.0,26.031,62.5,2.86
+Gare de Bayonne,43.49676,-1.4704,Gare de Biarritz,43.45938,-1.54601,12.5,7.385,17.7,0.81
+Gare de Bayonne,43.49676,-1.4704,Gare de Dax,43.72067,-1.05032,33.5,42.01,100.8,4.62
+Gare de Beaune,47.02304,4.84872,Gare de Dijon-Ville,47.3234,5.02728,22.5,36.034,86.5,3.96
+Gare de Belfort-Montbéliard-TGV,47.58659,6.89903,Gare de Besançon-Franche-Comté,47.30747,5.95476,22.8,77.518,186.0,8.53
+Gare de Belfort-Montbéliard-TGV,47.58659,6.89903,Gare de Mulhouse,47.7418,7.34285,25.5,37.462,89.9,4.12
+Gare de Bellegarde-s-V. Gare,46.1097,5.82365,Gare de Annemasse,46.19923,6.23639,45.75,33.325,80.0,3.67
+Gare de Bellegarde-s-V. Gare,46.1097,5.82365,Gare de Mâcon-Loché-TGV,46.2829,4.77895,76.0,82.708,198.5,9.1
+Gare de Bellegarde-s-V. Gare,46.1097,5.82365,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,194.67,399.711,959.3,43.97
+Gare de Bernay,49.08699,0.59573,Gare de Evreux - Normandie,49.01856,1.14989,27.0,41.107,98.7,4.52
+Gare de Bernay,49.08699,0.59573,Gare de Lisieux,49.13725,0.23168,16.0,27.089,65.0,2.98
+Gare de Besançon-Franche-Comté,47.30747,5.95476,Gare de Belfort-Montbéliard-TGV,47.58659,6.89903,25.0,77.518,186.0,8.53
+Gare de Besançon-Franche-Comté,47.30747,5.95476,Gare de Besançon-Viotte,47.24704,6.02191,14.5,8.418,20.2,0.93
+Gare de Besançon-Franche-Comté,47.30747,5.95476,Gare de Chalon-sur-Saône,46.78157,4.84349,58.5,102.547,246.1,11.28
+Gare de Besançon-Franche-Comté,47.30747,5.95476,Gare de Dijon-Ville,47.3234,5.02728,30.33,69.963,167.9,7.7
+Gare de Besançon-Viotte,47.24704,6.02191,Gare de Besançon-Franche-Comté,47.30747,5.95476,12.5,8.418,20.2,0.93
+Gare de Besançon-Viotte,47.24704,6.02191,Gare de Dole-Ville,47.09616,5.48804,23.2,43.718,104.9,4.81
+Gare de Biarritz,43.45938,-1.54601,Gare de Bayonne,43.49676,-1.4704,12.67,7.385,17.7,0.81
+Gare de Biarritz,43.45938,-1.54601,Gare de St-Jean-de-Luz-Ciboure,43.38585,-1.66116,16.0,12.387,29.7,1.36
+Gare de Biganos-Facture,44.63748,-0.96602,Gare de Arcachon,44.65892,-1.16537,19.5,15.954,38.3,1.75
+Gare de Biganos-Facture,44.63748,-0.96602,Gare de Bordeaux-St-Jean,44.82654,-0.55619,25.67,38.612,92.7,4.25
+Gare de Biganos-Facture,44.63748,-0.96602,Gare de La Teste,44.63696,-1.14298,14.5,14.006,33.6,1.54
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Agen,44.20797,0.6209,72.6,115.97,278.3,12.76
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Angoulême,45.65393,0.16453,37.43,107.962,259.1,11.88
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Biganos-Facture,44.63748,-0.96602,28.2,38.612,92.7,4.25
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Dax,43.72067,-1.05032,77.83,129.147,310.0,14.21
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Libourne,44.91588,-0.23637,19.33,27.099,65.0,2.98
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Massy-TGV,48.72603,2.26157,122.6,483.859,1161.3,53.22
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Montauban-Ville-Bourbon,44.01464,1.34197,107.0,175.762,421.8,19.33
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,133.15,497.148,1193.2,54.69
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Poitiers,46.58218,0.33308,63.0,207.134,497.1,22.78
+Gare de Bordeaux-St-Jean,44.82654,-0.55619,Gare de Toulouse-Matabiau,43.61146,1.45356,130.0,209.591,503.0,23.06
+Gare de Boulogne Ville,50.71559,1.60981,Gare de Calais Fréthun,50.90126,1.81103,23.5,25.032,60.1,2.75
+Gare de Boulogne Ville,50.71559,1.60981,Gare de Etaples Le Touquet,50.51672,1.6425,19.5,22.24,53.4,2.45
+Gare de Bourg-St-Maurice,45.61852,6.77148,Gare de Aime-la-Plagne,45.55437,6.64888,12.5,11.916,28.6,1.31
+Gare de Bourg-St-Maurice,45.61852,6.77148,Gare de Landry,45.57421,6.73387,12.33,5.733,13.8,0.63
+Gare de Brest,48.38808,-4.47892,Gare de Landerneau,48.45383,-4.25621,12.0,17.993,43.2,1.98
+Gare de Brest,48.38808,-4.47892,Gare de Morlaix,48.57798,-3.83276,32.83,52.112,125.1,5.73
+Gare de Brest,48.38808,-4.47892,Gare de St-Brieuc,48.50722,-2.76547,68.75,127.107,305.1,13.98
+Gare de Bruxelles-M./Brussel-Z.,50.83528,4.33583,Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,77.33,239.679,575.2,26.36
+Gare de Bruxelles-M./Brussel-Z.,50.83528,4.33583,Gare de Lille Europe,50.63885,3.07575,37.0,91.354,219.2,10.05
+Gare de Béthune,50.52143,2.6404,Gare de Hazebrouck,50.72504,2.54153,24.5,23.698,56.9,2.61
+Gare de Béthune,50.52143,2.6404,Gare de Lens,50.42677,2.8282,14.83,16.959,40.7,1.87
+Gare de Béziers,43.33623,3.21922,Gare de Agde,43.31757,3.46602,13.0,20.077,48.2,2.21
+Gare de Béziers,43.33623,3.21922,Gare de Narbonne,43.19103,3.00596,17.5,23.647,56.8,2.6
+Gare de Béziers,43.33623,3.21922,Gare de Sète,43.41281,3.6964,26.0,39.509,94.8,4.35
+Gare de Caen,49.17654,-0.34827,Gare de Bayeux,49.26944,-0.69771,18.0,27.408,65.8,3.01
+Gare de Caen,49.17654,-0.34827,Gare de Lisieux,49.13725,0.23168,29.0,42.413,101.8,4.67
+Gare de Calais Fréthun,50.90126,1.81103,Gare de Boulogne Ville,50.71559,1.60981,34.0,25.032,60.1,2.75
+Gare de Calais Fréthun,50.90126,1.81103,Gare de Calais Ville,50.95346,1.85075,10.5,6.439,15.5,0.71
+Gare de Calais Fréthun,50.90126,1.81103,Gare de Lille Europe,50.63885,3.07575,40.2,93.632,224.7,10.3
+Gare de Cannes,43.55391,7.01973,Gare de Antibes,43.58579,7.11952,12.0,8.789,21.1,0.97
+Gare de Cannes,43.55391,7.01973,Gare de Les Arcs-Draguignan,43.45573,6.48246,41.5,44.699,107.3,4.92
+Gare de Cannes,43.55391,7.01973,Gare de St-Raphaël-Valescure,43.42361,6.76901,27.0,24.888,59.7,2.74
+Gare de Carcassonne,43.21771,2.35188,Gare de Narbonne,43.19103,3.00596,30.5,53.113,127.5,5.84
+Gare de Carcassonne,43.21771,2.35188,Gare de Toulouse-Matabiau,43.61146,1.45356,47.4,84.772,203.5,9.32
+Gare de Carentan,49.3018,-1.2421,Gare de Lison,49.22705,-1.05028,13.0,16.216,38.9,1.78
+Gare de Carentan,49.3018,-1.2421,Gare de Valognes,49.50539,-1.48032,16.0,28.462,68.3,3.13
+Gare de Chalon-sur-Saône,46.78157,4.84349,Gare de Beaune,47.02304,4.84872,22.5,26.862,64.5,2.95
+Gare de Chalon-sur-Saône,46.78157,4.84349,Gare de Besançon-Franche-Comté,47.30747,5.95476,57.0,102.547,246.1,11.28
+Gare de Chalon-sur-Saône,46.78157,4.84349,Gare de Lyon-Part-Dieu,45.76059,4.85944,62.5,113.571,272.6,12.49
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,19.14,13.02,31.2,1.43
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Albertville,45.67318,6.38324,44.47,37.8,90.7,4.16
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Annecy,45.90206,6.12182,54.83,40.02,96.0,4.4
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Grenoble,45.19146,5.71453,50.5,45.163,108.4,4.97
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Lyon-Part-Dieu,45.76059,4.85944,97.0,85.077,204.2,9.36
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,82.0,67.711,162.5,7.45
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,184.17,436.78,1048.3,48.05
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Massy-TGV,48.72603,2.26157,202.25,446.803,1072.3,49.15
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Modane,45.19356,6.65918,68.83,71.411,171.4,7.86
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Mâcon-Loché-TGV,46.2829,4.77895,97.43,118.574,284.6,13.04
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,187.0,452.013,1084.8,49.72
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de St-Avre-la-Chambre,45.3531,6.30288,52.4,38.481,92.4,4.23
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de St-Jean-de-Maurienne-A.,45.27784,6.3542,43.75,47.048,112.9,5.18
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de St-Pierre-des-Corps,47.38573,0.72505,265.0,446.038,1070.5,49.06
+Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,Gare de Versailles-Chantiers,48.79557,2.13546,228.0,458.664,1100.8,50.45
+Gare de Champagne-Ardenne,49.21164,3.98879,Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,39.0,105.745,253.8,11.63
+Gare de Champagne-Ardenne,49.21164,3.98879,Gare de Châlons-en-Champagne,48.95551,4.34895,23.5,38.731,93.0,4.26
+Gare de Champagne-Ardenne,49.21164,3.98879,Gare de Lorraine-TGV,48.94779,6.16978,44.25,161.58,387.8,17.77
+Gare de Champagne-Ardenne,49.21164,3.98879,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,35.88,95.759,229.8,10.53
+Gare de Champagne-Ardenne,49.21164,3.98879,Gare de Metz-Ville,49.10979,6.1772,52.5,159.577,383.0,17.55
+Gare de Champagne-Ardenne,49.21164,3.98879,Gare de Meuse-TGV,48.97849,5.27105,31.0,96.925,232.6,10.66
+Gare de Champagne-Ardenne,49.21164,3.98879,Gare de Nancy-Ville,48.68978,6.17427,61.43,169.858,407.7,18.68
+Gare de Champagne-Ardenne,49.21164,3.98879,Gare de Paris-Est,48.87657,2.35915,45.67,124.52,298.8,13.7
+Gare de Charleville-Mézières,49.76742,4.72485,Gare de Rethel,49.50457,4.37028,35.8,38.822,93.2,4.27
+Gare de Charleville-Mézières,49.76742,4.72485,Gare de Sedan,49.69486,4.92999,24.5,16.813,40.4,1.85
+Gare de Chatellerault,46.81856,0.54922,Gare de Futuroscope,46.66985,0.3772,14.0,21.107,50.7,2.32
+Gare de Chatellerault,46.81856,0.54922,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,81.75,260.882,626.1,28.7
+Gare de Chatellerault,46.81856,0.54922,Gare de Poitiers,46.58218,0.33308,19.0,31.034,74.5,3.41
+Gare de Chatellerault,46.81856,0.54922,Gare de St-Pierre-des-Corps,47.38573,0.72505,33.5,64.475,154.7,7.09
+Gare de Cherbourg,49.6335,-1.62147,Gare de Valognes,49.50539,-1.48032,20.0,17.514,42.0,1.93
+Gare de Châlons-en-Champagne,48.95551,4.34895,Gare de Champagne-Ardenne,49.21164,3.98879,21.33,38.731,93.0,4.26
+Gare de Châlons-en-Champagne,48.95551,4.34895,Gare de Vitry-le-François,48.71773,4.58723,22.5,31.683,76.0,3.49
+Gare de Cluses (Hte-Savoie),46.06142,6.58268,Gare de Annemasse,46.19923,6.23639,54.88,30.782,73.9,3.39
+Gare de Cluses (Hte-Savoie),46.06142,6.58268,Gare de Massy-TGV,48.72603,2.26157,327.0,439.995,1056.0,48.4
+Gare de Cluses (Hte-Savoie),46.06142,6.58268,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,307.67,442.685,1062.4,48.7
+Gare de Cluses (Hte-Savoie),46.06142,6.58268,Gare de Sallanches-Comb.Megève,45.93567,6.63647,19.12,14.592,35.0,1.61
+Gare de Colmar,48.07315,7.34708,Gare de Mulhouse,47.7418,7.34285,26.5,36.858,88.5,4.05
+Gare de Colmar,48.07315,7.34708,Gare de Strasbourg,48.58517,7.73397,29.62,63.734,153.0,7.01
+Gare de Colmar,48.07315,7.34708,Gare de Sélestat,48.25964,7.4421,10.5,21.908,52.6,2.41
+Gare de Creusot - TGV (le),46.76531,4.49939,Gare de Lyon-Part-Dieu,45.76059,4.85944,41.6,115.134,276.3,12.66
+Gare de Creusot - TGV (le),46.76531,4.49939,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,78.0,266.952,640.7,29.36
+Gare de Creusot - TGV (le),46.76531,4.49939,Gare de Mâcon-Loché-TGV,46.2829,4.77895,21.0,57.767,138.6,6.35
+Gare de Creusot - TGV (le),46.76531,4.49939,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,87.71,280.566,673.4,30.86
+Gare de Croix Wasquehal,50.67855,3.13809,Gare de Lille Flandres,50.6362,3.07102,10.5,6.675,16.0,0.73
+Gare de Croix Wasquehal,50.67855,3.13809,Gare de Roubaix,50.69535,3.16302,5.0,2.565,6.2,0.28
+Gare de Dax,43.72067,-1.05032,Gare de Bayonne,43.49676,-1.4704,34.2,42.01,100.8,4.62
+Gare de Dax,43.72067,-1.05032,Gare de Bordeaux-St-Jean,44.82654,-0.55619,77.5,129.147,310.0,14.21
+Gare de Dax,43.72067,-1.05032,Gare de Orthez,43.4841,-0.76762,33.5,34.798,83.5,3.83
+Gare de Dax,43.72067,-1.05032,Gare de Pau,43.29167,-0.36965,52.33,72.749,174.6,8.0
+Gare de Dijon-Ville,47.3234,5.02728,Gare de Besançon-Franche-Comté,47.30747,5.95476,34.55,69.963,167.9,7.7
+Gare de Dijon-Ville,47.3234,5.02728,Gare de Dole-Ville,47.09616,5.48804,27.33,43.023,103.3,4.73
+Gare de Dijon-Ville,47.3234,5.02728,Gare de Lyon-Part-Dieu,45.76059,4.85944,109.0,174.306,418.3,19.17
+Gare de Dijon-Ville,47.3234,5.02728,Gare de Montbard,47.61872,4.33615,40.44,61.475,147.5,6.76
+Gare de Dijon-Ville,47.3234,5.02728,Gare de Mâcon-Ville,46.30266,4.82515,69.33,114.575,275.0,12.6
+Gare de Dijon-Ville,47.3234,5.02728,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,102.33,259.831,623.6,28.58
+Gare de Dol,48.54298,-1.75047,Gare de Rennes,48.10352,-1.67233,33.5,49.222,118.1,5.41
+Gare de Dol,48.54298,-1.75047,Gare de St-Malo,48.64665,-2.00462,17.0,21.967,52.7,2.42
+Gare de Dole-Ville,47.09616,5.48804,Gare de Besançon-Viotte,47.24704,6.02191,26.5,43.718,104.9,4.81
+Gare de Dole-Ville,47.09616,5.48804,Gare de Dijon-Ville,47.3234,5.02728,26.5,43.023,103.3,4.73
+Gare de Douai,50.37168,3.08996,Gare de Arras,50.28682,2.78113,21.7,23.874,57.3,2.63
+Gare de Douai,50.37168,3.08996,Gare de Lille Flandres,50.6362,3.07102,26.0,29.454,70.7,3.24
+Gare de Douai,50.37168,3.08996,Gare de Valenciennes,50.36318,3.51713,34.5,30.322,72.8,3.34
+Gare de Dunkerque,51.03044,2.36894,Gare de Hazebrouck,50.72504,2.54153,21.0,36.064,86.6,3.97
+Gare de Dunkerque,51.03044,2.36894,Gare de Lille Europe,50.63885,3.07575,31.0,66.049,158.5,7.27
+Gare de Emmendingen,48.11931,7.84792,Gare de Freiburg-Breisgau,47.99779,7.84159,14.0,13.525,32.5,1.49
+Gare de Emmendingen,48.11931,7.84792,Gare de Lahr,48.34061,7.83531,17.0,24.633,59.1,2.71
+Gare de Emmendingen,48.11931,7.84792,Gare de Offenburg,48.47647,7.94672,24.0,40.393,96.9,4.44
+Gare de Epinal,48.17808,6.44156,Gare de Nancy-Ville,48.68978,6.17427,46.0,60.238,144.6,6.63
+Gare de Epinal,48.17808,6.44156,Gare de Remiremont,48.01637,6.59904,27.0,21.457,51.5,2.36
+Gare de Etaples Le Touquet,50.51672,1.6425,Gare de Boulogne Ville,50.71559,1.60981,19.0,22.24,53.4,2.45
+Gare de Etaples Le Touquet,50.51672,1.6425,Gare de Rang du Fl. Verton Ber.,50.41581,1.64808,11.0,11.231,27.0,1.24
+Gare de Evian-les-Bains,46.39789,6.57747,Gare de Thonon-les-Bains,46.36898,6.48156,12.5,8.031,19.3,0.88
+Gare de Evreux - Normandie,49.01856,1.14989,Gare de Bernay,49.08699,0.59573,26.0,41.107,98.7,4.52
+Gare de Evreux - Normandie,49.01856,1.14989,Gare de Versailles-Chantiers,48.79557,2.13546,80.0,76.204,182.9,8.38
+Gare de Forbach,49.18949,6.90185,Gare de Paris-Est,48.87657,2.35915,102.5,333.048,799.3,36.64
+Gare de Forbach,49.18949,6.90185,Gare de Saarbrücken /Sarrebruck,49.24068,6.99098,10.5,8.623,20.7,0.95
+Gare de Frankfurt/M (Francfort),50.10726,8.66409,Gare de Mannheim-Hbf,49.47974,8.47011,40.33,71.174,170.8,7.83
+Gare de Freiburg-Breisgau,47.99779,7.84159,Gare de Emmendingen,48.11931,7.84792,11.5,13.525,32.5,1.49
+Gare de Futuroscope,46.66985,0.3772,Gare de Chatellerault,46.81856,0.54922,14.0,21.107,50.7,2.32
+Gare de Futuroscope,46.66985,0.3772,Gare de Poitiers,46.58218,0.33308,11.0,10.317,24.8,1.13
+Gare de Grenoble,45.19146,5.71453,Gare de Albertville,45.67318,6.38324,70.0,74.802,179.5,8.23
+Gare de Grenoble,45.19146,5.71453,Gare de Lyon-Part-Dieu,45.76059,4.85944,104.0,91.952,220.7,10.11
+Gare de Grenoble,45.19146,5.71453,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,76.9,77.146,185.2,8.49
+Gare de Grenoble,45.19146,5.71453,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,204.38,478.775,1149.1,52.67
+Gare de Guingamp,48.55554,-3.14272,Gare de Lannion,48.72695,-3.46067,32.0,30.16,72.4,3.32
+Gare de Guingamp,48.55554,-3.14272,Gare de Morlaix,48.57798,-3.83276,30.33,50.853,122.0,5.59
+Gare de Guingamp,48.55554,-3.14272,Gare de Plouaret-Trégor,48.60619,-3.46681,15.5,24.505,58.8,2.7
+Gare de Guingamp,48.55554,-3.14272,Gare de Rennes,48.10352,-1.67233,62.0,119.795,287.5,13.18
+Gare de Guingamp,48.55554,-3.14272,Gare de St-Brieuc,48.50722,-2.76547,18.0,28.302,67.9,3.11
+Gare de Hazebrouck,50.72504,2.54153,Gare de Béthune,50.52143,2.6404,22.5,23.698,56.9,2.61
+Gare de Hazebrouck,50.72504,2.54153,Gare de Dunkerque,51.03044,2.36894,26.0,36.064,86.6,3.97
+Gare de Hendaye,43.35299,-1.78187,Gare de St-Jean-de-Luz-Ciboure,43.38585,-1.66116,12.33,10.422,25.0,1.15
+Gare de Hyères,43.10886,6.1242,Gare de Toulon,43.12832,5.92946,14.0,15.959,38.3,1.76
+Gare de Kaiserslautern-Hbf,49.43631,7.76859,Gare de Mannheim-Hbf,49.47974,8.47011,42.0,50.95,122.3,5.6
+Gare de Kaiserslautern-Hbf,49.43631,7.76859,Gare de Saarbrücken /Sarrebruck,49.24068,6.99098,38.5,60.412,145.0,6.65
+Gare de Karlsruhe-Hbf,48.99441,8.40029,Gare de Baden-Baden,48.7903,8.19119,28.5,27.372,65.7,3.01
+Gare de Karlsruhe-Hbf,48.99441,8.40029,Gare de Mannheim-Hbf,49.47974,8.47011,29.0,54.221,130.1,5.96
+Gare de Karlsruhe-Hbf,48.99441,8.40029,Gare de Strasbourg,48.58517,7.73397,44.0,66.755,160.2,7.34
+Gare de Karlsruhe-Hbf,48.99441,8.40029,Gare de Stuttgart,48.78364,9.18054,39.0,61.692,148.1,6.79
+Gare de La Baule-Escoublac,47.28862,-2.38923,Gare de Le Croisic,47.28989,-2.50729,13.5,8.909,21.4,0.98
+Gare de La Baule-Escoublac,47.28862,-2.38923,Gare de Le Pouliguen,47.28252,-2.43316,8.33,3.383,8.1,0.37
+Gare de La Baule-Escoublac,47.28862,-2.38923,Gare de Pornichet,47.27048,-2.34474,9.5,3.917,9.4,0.43
+Gare de La Baule-Escoublac,47.28862,-2.38923,Gare de St-Nazaire,47.28647,-2.21107,17.0,13.444,32.3,1.48
+Gare de La Roche-sur-Yon,46.67202,-1.43568,Gare de Les Sables-d'Olonne,46.49998,-1.78115,28.5,32.614,78.3,3.59
+Gare de La Roche-sur-Yon,46.67202,-1.43568,Gare de Nantes,47.2175,-1.54193,46.0,61.208,146.9,6.73
+Gare de La Rochelle-Ville,46.1527,-1.1453,Gare de Niort,46.31935,-0.45439,35.2,56.295,135.1,6.19
+Gare de La Rochelle-Ville,46.1527,-1.1453,Gare de Surgères,46.11342,-0.76213,19.25,29.856,71.7,3.28
+Gare de La Teste,44.63696,-1.14298,Gare de Arcachon,44.65892,-1.16537,7.5,3.017,7.2,0.33
+Gare de La Teste,44.63696,-1.14298,Gare de Biganos-Facture,44.63748,-0.96602,14.0,14.006,33.6,1.54
+Gare de Lahr,48.34061,7.83531,Gare de Emmendingen,48.11931,7.84792,18.0,24.633,59.1,2.71
+Gare de Lahr,48.34061,7.83531,Gare de Offenburg,48.47647,7.94672,13.0,17.205,41.3,1.89
+Gare de Lamballe,48.46592,-2.51149,Gare de Rennes,48.10352,-1.67233,41.67,74.045,177.7,8.14
+Gare de Lamballe,48.46592,-2.51149,Gare de St-Brieuc,48.50722,-2.76547,13.0,19.279,46.3,2.12
+Gare de Landerneau,48.45383,-4.25621,Gare de Brest,48.38808,-4.47892,14.5,17.993,43.2,1.98
+Gare de Landerneau,48.45383,-4.25621,Gare de Morlaix,48.57798,-3.83276,24.0,34.119,81.9,3.75
+Gare de Landry,45.57421,6.73387,Gare de Aime-la-Plagne,45.55437,6.64888,12.0,6.976,16.7,0.77
+Gare de Landry,45.57421,6.73387,Gare de Bourg-St-Maurice,45.61852,6.77148,15.75,5.733,13.8,0.63
+Gare de Lannion,48.72695,-3.46067,Gare de Guingamp,48.55554,-3.14272,27.0,30.16,72.4,3.32
+Gare de Laval,48.07625,-0.76094,Gare de Le Mans,47.99558,0.19214,33.71,71.451,171.5,7.86
+Gare de Laval,48.07625,-0.76094,Gare de Massy-TGV,48.72603,2.26157,69.5,234.593,563.0,25.81
+Gare de Laval,48.07625,-0.76094,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,77.8,242.615,582.3,26.69
+Gare de Laval,48.07625,-0.76094,Gare de Rennes,48.10352,-1.67233,30.6,67.781,162.7,7.46
+Gare de Laval,48.07625,-0.76094,Gare de Vitré,48.12242,-1.21197,21.0,33.895,81.3,3.73
+Gare de Le Croisic,47.28989,-2.50729,Gare de La Baule-Escoublac,47.28862,-2.38923,8.5,8.909,21.4,0.98
+Gare de Le Croisic,47.28989,-2.50729,Gare de Le Pouliguen,47.28252,-2.43316,5.5,5.653,13.6,0.62
+Gare de Le Havre,49.49265,0.12484,Gare de Rouen-Rive-Droite,49.44903,1.09415,46.67,70.231,168.6,7.73
+Gare de Le Mans,47.99558,0.19214,Gare de Albertville,45.67318,6.38324,564.0,537.045,1288.9,59.07
+Gare de Le Mans,47.99558,0.19214,Gare de Ancenis,47.36946,-1.17761,64.0,123.978,297.5,13.64
+Gare de Le Mans,47.99558,0.19214,Gare de Angers-St-Laud,47.46443,-0.55695,49.21,81.432,195.4,8.96
+Gare de Le Mans,47.99558,0.19214,Gare de Laval,48.07625,-0.76094,37.14,71.451,171.5,7.86
+Gare de Le Mans,47.99558,0.19214,Gare de Massy-TGV,48.72603,2.26157,60.12,173.174,415.6,19.05
+Gare de Le Mans,47.99558,0.19214,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,66.12,183.04,439.3,20.13
+Gare de Le Mans,47.99558,0.19214,Gare de Rennes,48.10352,-1.67233,50.6,139.149,334.0,15.31
+Gare de Le Mans,47.99558,0.19214,Gare de Sablé-sur-Sarthe,47.84172,-0.34205,23.0,43.343,104.0,4.77
+Gare de Le Mans,47.99558,0.19214,Gare de St-Avre-la-Chambre,45.3531,6.30288,587.0,551.012,1322.4,60.61
+Gare de Le Pouliguen,47.28252,-2.43316,Gare de La Baule-Escoublac,47.28862,-2.38923,7.5,3.383,8.1,0.37
+Gare de Le Pouliguen,47.28252,-2.43316,Gare de Le Croisic,47.28989,-2.50729,9.5,5.653,13.6,0.62
+Gare de Lens,50.42677,2.8282,Gare de Arras,50.28682,2.78113,17.5,15.921,38.2,1.75
+Gare de Lens,50.42677,2.8282,Gare de Béthune,50.52143,2.6404,16.62,16.959,40.7,1.87
+Gare de Lens,50.42677,2.8282,Gare de Douai,50.37168,3.08996,29.5,19.545,46.9,2.15
+Gare de Les Arcs-Draguignan,43.45573,6.48246,Gare de Cannes,43.55391,7.01973,40.5,44.699,107.3,4.92
+Gare de Les Arcs-Draguignan,43.45573,6.48246,Gare de St-Raphaël-Valescure,43.42361,6.76901,16.5,23.417,56.2,2.58
+Gare de Les Arcs-Draguignan,43.45573,6.48246,Gare de Toulon,43.12832,5.92946,41.75,57.713,138.5,6.35
+Gare de Les Sables-d'Olonne,46.49998,-1.78115,Gare de La Roche-sur-Yon,46.67202,-1.43568,24.0,32.614,78.3,3.59
+Gare de Libourne,44.91588,-0.23637,Gare de Angoulême,45.65393,0.16453,43.0,87.884,210.9,9.67
+Gare de Libourne,44.91588,-0.23637,Gare de Bordeaux-St-Jean,44.82654,-0.55619,25.6,27.099,65.0,2.98
+Gare de Lille Europe,50.63885,3.07575,Gare de Arras,50.28682,2.78113,32.27,44.367,106.5,4.88
+Gare de Lille Europe,50.63885,3.07575,Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,59.55,185.405,445.0,20.39
+Gare de Lille Europe,50.63885,3.07575,Gare de Bruxelles-M./Brussel-Z.,50.83528,4.33583,48.67,91.354,219.2,10.05
+Gare de Lille Europe,50.63885,3.07575,Gare de Calais Fréthun,50.90126,1.81103,36.5,93.632,224.7,10.3
+Gare de Lille Europe,50.63885,3.07575,Gare de Douai,50.37168,3.08996,25.6,29.734,71.4,3.27
+Gare de Lille Europe,50.63885,3.07575,Gare de Dunkerque,51.03044,2.36894,48.0,66.049,158.5,7.27
+Gare de Lille Europe,50.63885,3.07575,Gare de TGV Haute-Picardie,49.8592,2.83165,31.7,88.44,212.3,9.73
+Gare de Lille Flandres,50.6362,3.07102,Gare de Arras,50.28682,2.78113,35.0,43.95,105.5,4.83
+Gare de Lille Flandres,50.6362,3.07102,Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,54.4,185.05,444.1,20.36
+Gare de Lille Flandres,50.6362,3.07102,Gare de Croix Wasquehal,50.67855,3.13809,19.0,6.675,16.0,0.73
+Gare de Lille Flandres,50.6362,3.07102,Gare de Douai,50.37168,3.08996,22.83,29.454,70.7,3.24
+Gare de Lille Flandres,50.6362,3.07102,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,60.67,197.476,473.9,21.72
+Gare de Lille Flandres,50.6362,3.07102,Gare de Paris Gare du Nord,48.88014,2.35489,64.25,201.989,484.8,22.22
+Gare de Lille Flandres,50.6362,3.07102,Gare de TGV Haute-Picardie,49.8592,2.83165,30.0,88.087,211.4,9.69
+Gare de Lisieux,49.13725,0.23168,Gare de Bernay,49.08699,0.59573,20.0,27.089,65.0,2.98
+Gare de Lisieux,49.13725,0.23168,Gare de Caen,49.17654,-0.34827,25.0,42.413,101.8,4.67
+Gare de Lison,49.22705,-1.05028,Gare de Bayeux,49.26944,-0.69771,18.0,26.031,62.5,2.86
+Gare de Lison,49.22705,-1.05028,Gare de Carentan,49.3018,-1.2421,13.0,16.216,38.9,1.78
+Gare de Lorient,47.7552,-3.36635,Gare de Auray,47.68019,-3.0,18.0,28.657,68.8,3.15
+Gare de Lorient,47.7552,-3.36635,Gare de Quimper,47.99466,-4.0921,37.5,60.343,144.8,6.64
+Gare de Lorient,47.7552,-3.36635,Gare de Quimperlé,47.86906,-3.55301,14.5,18.836,45.2,2.07
+Gare de Lorient,47.7552,-3.36635,Gare de Rosporden,47.96019,-3.83276,27.0,41.612,99.9,4.58
+Gare de Lorient,47.7552,-3.36635,Gare de Vannes,47.66532,-2.75252,24.5,47.016,112.8,5.17
+Gare de Lorraine-TGV,48.94779,6.16978,Gare de Champagne-Ardenne,49.21164,3.98879,41.6,161.58,387.8,17.77
+Gare de Lorraine-TGV,48.94779,6.16978,Gare de Meuse-TGV,48.97849,5.27105,22.0,65.72,157.7,7.23
+Gare de Lorraine-TGV,48.94779,6.16978,Gare de Paris-Est,48.87657,2.35915,77.0,278.647,668.8,30.65
+Gare de Lorraine-TGV,48.94779,6.16978,Gare de Strasbourg,48.58517,7.73397,55.5,121.562,291.7,13.37
+Gare de Lourdes,43.10043,-0.04219,Gare de Pau,43.29167,-0.36965,30.6,34.023,81.7,3.74
+Gare de Lourdes,43.10043,-0.04219,Gare de Tarbes,43.2398,0.06941,25.0,17.952,43.1,1.97
+Gare de Lunéville,48.58799,6.49703,Gare de Nancy-Ville,48.68978,6.17427,23.5,26.287,63.1,2.89
+Gare de Lunéville,48.58799,6.49703,Gare de Sarrebourg,48.73794,7.05278,25.0,44.104,105.8,4.85
+Gare de Lunéville,48.58799,6.49703,Gare de St-Dié-des-Vosges,48.28224,6.94806,34.0,47.586,114.2,5.23
+Gare de Luxembourg,49.59965,6.13401,Gare de Thionville,49.35392,6.16885,33.75,27.448,65.9,3.02
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Aix-en-Provence-TGV,43.45515,5.31726,101.0,258.982,621.6,28.49
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Avignon-TGV,43.92196,4.78615,75.18,204.591,491.0,22.51
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Chalon-sur-Saône,46.78157,4.84349,69.0,113.571,272.6,12.49
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,69.0,85.077,204.2,9.36
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Creusot - TGV (le),46.76531,4.49939,45.33,115.134,276.3,12.66
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Dijon-Ville,47.3234,5.02728,99.0,174.306,418.3,19.17
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Grenoble,45.19146,5.71453,86.0,91.952,220.7,10.11
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Lyon-Perrache,45.74879,4.82594,14.88,2.912,7.0,0.32
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,113.33,379.68,911.2,41.76
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Massy-Palaiseau,48.7249,2.2566,135.0,383.803,921.1,42.22
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Massy-TGV,48.72603,2.26157,133.86,383.717,920.9,42.21
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Mâcon-Loché-TGV,46.2829,4.77895,28.33,58.428,140.2,6.43
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Mâcon-Ville,46.30266,4.82515,46.0,60.353,144.8,6.64
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Nîmes,43.83229,4.36584,88.0,217.992,523.2,23.98
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,122.3,390.917,938.2,43.0
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de St-Etienne-Châteaucreux,45.44338,4.4,52.33,50.231,120.6,5.53
+Gare de Lyon-Part-Dieu,45.76059,4.85944,Gare de Valence-TGV,44.99137,4.97894,40.94,86.068,206.6,9.47
+Gare de Lyon-Perrache,45.74879,4.82594,Gare de Avignon-TGV,43.92196,4.78615,76.0,203.221,487.7,22.35
+Gare de Lyon-Perrache,45.74879,4.82594,Gare de Lyon-Part-Dieu,45.76059,4.85944,9.67,2.912,7.0,0.32
+Gare de Lyon-Perrache,45.74879,4.82594,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,122.5,379.853,911.6,41.78
+Gare de Lyon-Perrache,45.74879,4.82594,Gare de Mâcon-Ville,46.30266,4.82515,44.0,61.607,147.9,6.78
+Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,Gare de Aix-en-Provence-TGV,43.45515,5.31726,71.0,252.746,606.6,27.8
+Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,Gare de Avignon-TGV,43.92196,4.78615,59.43,201.399,483.4,22.15
+Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,64.67,67.711,162.5,7.45
+Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,Gare de Grenoble,45.19146,5.71453,78.33,77.146,185.2,8.49
+Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,112.44,390.667,937.6,42.97
+Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,Gare de Nîmes,43.83229,4.36584,66.5,217.421,521.8,23.92
+Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,121.29,402.83,966.8,44.31
+Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,Gare de Toulon,43.12832,5.92946,131.0,296.236,711.0,32.59
+Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,Gare de Valence-Ville,44.92807,4.89329,34.2,89.337,214.4,9.83
+Gare de Mannheim-Hbf,49.47974,8.47011,Gare de Frankfurt/M (Francfort),50.10726,8.66409,41.67,71.174,170.8,7.83
+Gare de Mannheim-Hbf,49.47974,8.47011,Gare de Kaiserslautern-Hbf,49.43631,7.76859,44.0,50.95,122.3,5.6
+Gare de Mannheim-Hbf,49.47974,8.47011,Gare de Karlsruhe-Hbf,48.99441,8.40029,27.5,54.221,130.1,5.96
+Gare de Mantes-la-Jolie,48.98969,1.70329,Gare de Rouen-Rive-Droite,49.44903,1.09415,48.0,67.594,162.2,7.44
+Gare de Mantes-la-Jolie,48.98969,1.70329,Gare de Versailles-Chantiers,48.79557,2.13546,35.0,38.276,91.9,4.21
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Annemasse,46.19923,6.23639,209.5,394.312,946.3,43.37
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Avignon-TGV,43.92196,4.78615,156.0,571.429,1371.4,62.86
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,17.82,21.414,51.4,2.36
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,190.0,436.78,1048.3,48.05
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Champagne-Ardenne,49.21164,3.98879,36.0,95.759,229.8,10.53
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Creusot - TGV (le),46.76531,4.49939,79.0,266.952,640.7,29.36
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Lille Flandres,50.6362,3.07102,66.0,197.476,473.9,21.72
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Lyon-Part-Dieu,45.76059,4.85944,117.11,379.68,911.2,41.76
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Lyon-Perrache,45.74879,4.82594,128.0,379.853,911.6,41.78
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,115.38,390.667,937.6,42.97
+Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,Gare de Massy-TGV,48.72603,2.26157,43.69,41.442,99.5,4.56
+Gare de Marseille-St-Charles,43.30273,5.38065,Gare de Aix-en-Provence-TGV,43.45515,5.31726,20.67,17.711,42.5,1.95
+Gare de Marseille-St-Charles,43.30273,5.38065,Gare de Avignon-TGV,43.92196,4.78615,29.2,83.882,201.3,9.23
+Gare de Marseille-St-Charles,43.30273,5.38065,Gare de Lyon-Perrache,45.74879,4.82594,93.0,275.605,661.5,30.32
+Gare de Marseille-St-Charles,43.30273,5.38065,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,200.25,658.544,1580.5,72.44
+Gare de Marseille-St-Charles,43.30273,5.38065,Gare de Toulon,43.12832,5.92946,64.57,48.534,116.5,5.34
+Gare de Massy-Palaiseau,48.7249,2.2566,Gare de Lyon-Part-Dieu,45.76059,4.85944,132.0,383.803,921.1,42.22
+Gare de Massy-Palaiseau,48.7249,2.2566,Gare de Versailles-Chantiers,48.79557,2.13546,18.0,11.86,28.5,1.3
+Gare de Massy-TGV,48.72603,2.26157,Gare de Bordeaux-St-Jean,44.82654,-0.55619,117.5,483.859,1161.3,53.22
+Gare de Massy-TGV,48.72603,2.26157,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,208.75,446.803,1072.3,49.15
+Gare de Massy-TGV,48.72603,2.26157,Gare de Cluses (Hte-Savoie),46.06142,6.58268,302.0,439.995,1056.0,48.4
+Gare de Massy-TGV,48.72603,2.26157,Gare de Laval,48.07625,-0.76094,68.5,234.593,563.0,25.81
+Gare de Massy-TGV,48.72603,2.26157,Gare de Le Mans,47.99558,0.19214,59.12,173.174,415.6,19.05
+Gare de Massy-TGV,48.72603,2.26157,Gare de Lyon-Part-Dieu,45.76059,4.85944,128.86,383.717,920.9,42.21
+Gare de Massy-TGV,48.72603,2.26157,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,40.57,41.442,99.5,4.56
+Gare de Massy-TGV,48.72603,2.26157,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,13.0,13.445,32.3,1.48
+Gare de Massy-TGV,48.72603,2.26157,Gare de St-Pierre-des-Corps,47.38573,0.72505,63.38,187.807,450.7,20.66
+Gare de Massy-TGV,48.72603,2.26157,Gare de Vendôme-Villiers-s-Loir,47.82032,1.01967,36.5,136.385,327.3,15.0
+Gare de Metz-Ville,49.10979,6.1772,Gare de Champagne-Ardenne,49.21164,3.98879,52.71,159.577,383.0,17.55
+Gare de Metz-Ville,49.10979,6.1772,Gare de Luxembourg,49.59965,6.13401,80.0,54.577,131.0,6.0
+Gare de Metz-Ville,49.10979,6.1772,Gare de Meuse-TGV,48.97849,5.27105,29.5,67.66,162.4,7.44
+Gare de Metz-Ville,49.10979,6.1772,Gare de Paris-Est,48.87657,2.35915,95.19,279.828,671.6,30.78
+Gare de Metz-Ville,49.10979,6.1772,Gare de Strasbourg,48.58517,7.73397,81.31,128.019,307.2,14.08
+Gare de Metz-Ville,49.10979,6.1772,Gare de Thionville,49.35392,6.16885,26.0,27.162,65.2,2.99
+Gare de Meuse-TGV,48.97849,5.27105,Gare de Champagne-Ardenne,49.21164,3.98879,32.67,96.925,232.6,10.66
+Gare de Meuse-TGV,48.97849,5.27105,Gare de Lorraine-TGV,48.94779,6.16978,24.0,65.72,157.7,7.23
+Gare de Meuse-TGV,48.97849,5.27105,Gare de Marne-la-Vallée-Chessy.,48.8706,2.78288,68.0,182.233,437.4,20.05
+Gare de Meuse-TGV,48.97849,5.27105,Gare de Metz-Ville,49.10979,6.1772,34.0,67.66,162.4,7.44
+Gare de Meuse-TGV,48.97849,5.27105,Gare de Nancy-Ville,48.68978,6.17427,37.0,73.514,176.4,8.09
+Gare de Meuse-TGV,48.97849,5.27105,Gare de Paris-Est,48.87657,2.35915,64.0,213.089,511.4,23.44
+Gare de Meuse-TGV,48.97849,5.27105,Gare de Strasbourg,48.58517,7.73397,62.5,185.729,445.8,20.43
+Gare de Milano-Porta-Garibaldi,45.48496,9.18759,Gare de Novara,45.45074,8.62495,31.0,44.054,105.7,4.85
+Gare de Milano-Porta-Garibaldi,45.48496,9.18759,Gare de Torino PS (Turin),45.07389,7.66751,85.33,127.453,305.9,14.02
+Gare de Miramas,43.58074,4.9996,Gare de Arles,43.68484,4.63202,17.5,31.777,76.3,3.5
+Gare de Modane,45.19356,6.65918,Gare de Bardonecchia-Stazione,45.07643,6.70964,23.2,13.617,32.7,1.5
+Gare de Modane,45.19356,6.65918,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,70.25,71.411,171.4,7.86
+Gare de Modane,45.19356,6.65918,Gare de St-Jean-de-Maurienne-A.,45.27784,6.3542,30.5,25.662,61.6,2.82
+Gare de Modane,45.19356,6.65918,Gare de St-Michel-Valloire,45.21725,6.47112,17.0,14.972,35.9,1.65
+Gare de Montauban-Ville-Bourbon,44.01464,1.34197,Gare de Agen,44.20797,0.6209,38.0,61.47,147.5,6.76
+Gare de Montauban-Ville-Bourbon,44.01464,1.34197,Gare de Toulouse-Matabiau,43.61146,1.45356,30.83,45.731,109.8,5.03
+Gare de Montbard,47.61872,4.33615,Gare de Dijon-Ville,47.3234,5.02728,35.25,61.475,147.5,6.76
+Gare de Montbard,47.61872,4.33615,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,66.88,199.36,478.5,21.93
+Gare de Montpellier-Saint-Roch,43.60583,3.88236,Gare de Béziers,43.33623,3.21922,40.75,61.358,147.3,6.75
+Gare de Montpellier-Saint-Roch,43.60583,3.88236,Gare de Nîmes,43.83229,4.36584,27.6,46.315,111.2,5.09
+Gare de Montpellier-Saint-Roch,43.60583,3.88236,Gare de Sète,43.41281,3.6964,19.0,26.192,62.9,2.88
+Gare de Montpellier-Sud-France,43.59474,3.92684,Gare de Nîmes Pont-du-Gard,43.81681,4.50768,22.5,52.833,126.8,5.81
+Gare de Montpellier-Sud-France,43.59474,3.92684,Gare de Sète,43.41281,3.6964,19.25,27.48,66.0,3.02
+Gare de Montélimar,44.559,4.74479,Gare de Orange,44.13731,4.8195,26.5,47.28,113.5,5.2
+Gare de Montélimar,44.559,4.74479,Gare de Valence-Ville,44.92807,4.89329,24.0,42.695,102.5,4.7
+Gare de Morlaix,48.57798,-3.83276,Gare de Brest,48.38808,-4.47892,35.5,52.112,125.1,5.73
+Gare de Morlaix,48.57798,-3.83276,Gare de Guingamp,48.55554,-3.14272,29.5,50.853,122.0,5.59
+Gare de Morlaix,48.57798,-3.83276,Gare de Landerneau,48.45383,-4.25621,25.0,34.119,81.9,3.75
+Gare de Morlaix,48.57798,-3.83276,Gare de Plouaret-Trégor,48.60619,-3.46681,18.5,27.105,65.1,2.98
+Gare de Moûtiers-Salins-Brides,45.48648,6.53138,Gare de Aime-la-Plagne,45.55437,6.64888,24.0,11.869,28.5,1.31
+Gare de Moûtiers-Salins-Brides,45.48648,6.53138,Gare de Albertville,45.67318,6.38324,32.94,23.755,57.0,2.61
+Gare de Mulhouse,47.7418,7.34285,Gare de Belfort-Montbéliard-TGV,47.58659,6.89903,26.38,37.462,89.9,4.12
+Gare de Mulhouse,47.7418,7.34285,Gare de Colmar,48.07315,7.34708,29.0,36.858,88.5,4.05
+Gare de Mulhouse,47.7418,7.34285,Gare de Strasbourg,48.58517,7.73397,56.0,98.193,235.7,10.8
+Gare de Mâcon-Loché-TGV,46.2829,4.77895,Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,84.3,109.603,263.0,12.06
+Gare de Mâcon-Loché-TGV,46.2829,4.77895,Gare de Albertville,45.67318,6.38324,122.5,141.337,339.2,15.55
+Gare de Mâcon-Loché-TGV,46.2829,4.77895,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,80.6,118.574,284.6,13.04
+Gare de Mâcon-Loché-TGV,46.2829,4.77895,Gare de Creusot - TGV (le),46.76531,4.49939,20.0,57.767,138.6,6.35
+Gare de Mâcon-Loché-TGV,46.2829,4.77895,Gare de Lyon-Part-Dieu,45.76059,4.85944,28.75,58.428,140.2,6.43
+Gare de Mâcon-Loché-TGV,46.2829,4.77895,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,100.33,337.31,809.5,37.1
+Gare de Mâcon-Ville,46.30266,4.82515,Gare de Chalon-sur-Saône,46.78157,4.84349,30.0,53.288,127.9,5.86
+Gare de Mâcon-Ville,46.30266,4.82515,Gare de Dijon-Ville,47.3234,5.02728,59.5,114.575,275.0,12.6
+Gare de Mâcon-Ville,46.30266,4.82515,Gare de Lyon-Part-Dieu,45.76059,4.85944,39.0,60.353,144.8,6.64
+Gare de Nancy-Ville,48.68978,6.17427,Gare de Champagne-Ardenne,49.21164,3.98879,56.0,169.858,407.7,18.68
+Gare de Nancy-Ville,48.68978,6.17427,Gare de Epinal,48.17808,6.44156,48.0,60.238,144.6,6.63
+Gare de Nancy-Ville,48.68978,6.17427,Gare de Lunéville,48.58799,6.49703,23.5,26.287,63.1,2.89
+Gare de Nancy-Ville,48.68978,6.17427,Gare de Meuse-TGV,48.97849,5.27105,37.67,73.514,176.4,8.09
+Gare de Nancy-Ville,48.68978,6.17427,Gare de Paris-Est,48.87657,2.35915,95.0,280.353,672.8,30.84
+Gare de Nancy-Ville,48.68978,6.17427,Gare de Sarrebourg,48.73794,7.05278,43.0,64.697,155.3,7.12
+Gare de Nancy-Ville,48.68978,6.17427,Gare de St-Dié-des-Vosges,48.28224,6.94806,56.0,72.863,174.9,8.01
+Gare de Nancy-Ville,48.68978,6.17427,Gare de Strasbourg,48.58517,7.73397,75.4,115.229,276.6,12.68
+Gare de Nantes,47.2175,-1.54193,Gare de Ancenis,47.36946,-1.17761,18.0,32.265,77.4,3.55
+Gare de Nantes,47.2175,-1.54193,Gare de Angers-St-Laud,47.46443,-0.55695,42.57,79.158,190.0,8.71
+Gare de Nantes,47.2175,-1.54193,Gare de La Roche-sur-Yon,46.67202,-1.43568,53.0,61.208,146.9,6.73
+Gare de Nantes,47.2175,-1.54193,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,124.56,339.222,814.1,37.31
+Gare de Nantes,47.2175,-1.54193,Gare de Redon,47.65176,-2.08788,50.5,63.407,152.2,6.97
+Gare de Nantes,47.2175,-1.54193,Gare de Rennes,48.10352,-1.67233,82.5,99.034,237.7,10.89
+Gare de Nantes,47.2175,-1.54193,Gare de St-Nazaire,47.28647,-2.21107,40.0,51.1,122.6,5.62
+Gare de Narbonne,43.19103,3.00596,Gare de Béziers,43.33623,3.21922,17.5,23.647,56.8,2.6
+Gare de Narbonne,43.19103,3.00596,Gare de Carcassonne,43.21771,2.35188,31.5,53.113,127.5,5.84
+Gare de Narbonne,43.19103,3.00596,Gare de Perpignan,42.69607,2.87962,43.56,56.007,134.4,6.16
+Gare de Nice-Ville,43.70471,7.26179,Gare de Antibes,43.58579,7.11952,14.5,17.496,42.0,1.92
+Gare de Niort,46.31935,-0.45439,Gare de La Rochelle-Ville,46.1527,-1.1453,38.5,56.295,135.1,6.19
+Gare de Niort,46.31935,-0.45439,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,115.0,349.2,838.1,38.41
+Gare de Niort,46.31935,-0.45439,Gare de Poitiers,46.58218,0.33308,47.0,67.056,160.9,7.38
+Gare de Niort,46.31935,-0.45439,Gare de St-Maixent (Deux-Sèvr.),46.40631,-0.20131,17.0,21.701,52.1,2.39
+Gare de Niort,46.31935,-0.45439,Gare de St-Pierre-des-Corps,47.38573,0.72505,65.0,148.719,356.9,16.36
+Gare de Niort,46.31935,-0.45439,Gare de Surgères,46.11342,-0.76213,20.5,32.949,79.1,3.62
+Gare de Novara,45.45074,8.62495,Gare de Milano-Porta-Garibaldi,45.48496,9.18759,37.0,44.054,105.7,4.85
+Gare de Novara,45.45074,8.62495,Gare de Vercelli,45.32911,8.41484,13.0,21.27,51.0,2.34
+Gare de Nîmes,43.83229,4.36584,Gare de Lyon-Part-Dieu,45.76059,4.85944,83.0,217.992,523.2,23.98
+Gare de Nîmes,43.83229,4.36584,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,68.0,217.421,521.8,23.92
+Gare de Nîmes,43.83229,4.36584,Gare de Montpellier-Saint-Roch,43.60583,3.88236,29.14,46.315,111.2,5.09
+Gare de Nîmes,43.83229,4.36584,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,181.0,578.109,1387.5,63.59
+Gare de Nîmes,43.83229,4.36584,Gare de Valence-TGV,44.99137,4.97894,50.86,137.819,330.8,15.16
+Gare de Nîmes Pont-du-Gard,43.81681,4.50768,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,64.0,216.493,519.6,23.81
+Gare de Nîmes Pont-du-Gard,43.81681,4.50768,Gare de Montpellier-Sud-France,43.59474,3.92684,23.5,52.833,126.8,5.81
+Gare de Nîmes Pont-du-Gard,43.81681,4.50768,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,169.8,582.737,1398.6,64.1
+Gare de Nîmes Pont-du-Gard,43.81681,4.50768,Gare de Valence-TGV,44.99137,4.97894,43.8,135.907,326.2,14.95
+Gare de Offenburg,48.47647,7.94672,Gare de Lahr,48.34061,7.83531,16.0,17.205,41.3,1.89
+Gare de Offenburg,48.47647,7.94672,Gare de Strasbourg,48.58517,7.73397,24.5,19.793,47.5,2.18
+Gare de Orange,44.13731,4.8195,Gare de Avignon-Centre,43.94188,4.80526,17.67,21.767,52.2,2.39
+Gare de Orange,44.13731,4.8195,Gare de Montélimar,44.559,4.74479,27.67,47.28,113.5,5.2
+Gare de Orthez,43.4841,-0.76762,Gare de Dax,43.72067,-1.05032,29.5,34.798,83.5,3.83
+Gare de Orthez,43.4841,-0.76762,Gare de Pau,43.29167,-0.36965,24.33,38.64,92.7,4.25
+Gare de Oulx-Cesana-Clav-Sestri,45.03879,6.83154,Gare de Bardonecchia-Stazione,45.07643,6.70964,12.0,10.453,25.1,1.15
+Gare de Oulx-Cesana-Clav-Sestri,45.03879,6.83154,Gare de Torino PS (Turin),45.07389,7.66751,57.75,65.801,157.9,7.24
+Gare de Paris Gare du Nord,48.88014,2.35489,Gare de Arras,50.28682,2.78113,50.4,159.454,382.7,17.54
+Gare de Paris Gare du Nord,48.88014,2.35489,Gare de Lille Flandres,50.6362,3.07102,66.75,201.989,484.8,22.22
+Gare de Paris-Est,48.87657,2.35915,Gare de Champagne-Ardenne,49.21164,3.98879,40.5,124.52,298.8,13.7
+Gare de Paris-Est,48.87657,2.35915,Gare de Forbach,49.18949,6.90185,100.0,333.048,799.3,36.64
+Gare de Paris-Est,48.87657,2.35915,Gare de Lorraine-TGV,48.94779,6.16978,73.0,278.647,668.8,30.65
+Gare de Paris-Est,48.87657,2.35915,Gare de Metz-Ville,49.10979,6.1772,87.29,279.828,671.6,30.78
+Gare de Paris-Est,48.87657,2.35915,Gare de Meuse-TGV,48.97849,5.27105,62.0,213.089,511.4,23.44
+Gare de Paris-Est,48.87657,2.35915,Gare de Nancy-Ville,48.68978,6.17427,91.0,280.353,672.8,30.84
+Gare de Paris-Est,48.87657,2.35915,Gare de Reims,49.25907,4.02402,46.75,128.565,308.6,14.14
+Gare de Paris-Est,48.87657,2.35915,Gare de Strasbourg,48.58517,7.73397,124.69,395.58,949.4,43.51
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Aix-en-Provence-TGV,43.45515,5.31726,175.5,640.854,1538.0,70.49
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Aix-les-Bains-le-Revard,45.68786,5.90935,173.33,440.962,1058.3,48.51
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Albertville,45.67318,6.38324,241.73,464.717,1115.3,51.12
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Annemasse,46.19923,6.23639,252.38,413.168,991.6,45.45
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Avignon-TGV,43.92196,4.78615,161.78,577.946,1387.1,63.57
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Bellegarde-s-V. Gare,46.1097,5.82365,178.33,399.711,959.3,43.97
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,184.57,452.013,1084.8,49.72
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Cluses (Hte-Savoie),46.06142,6.58268,302.0,442.685,1062.4,48.7
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Creusot - TGV (le),46.76531,4.49939,80.5,280.566,673.4,30.86
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Dijon-Ville,47.3234,5.02728,96.5,259.831,623.6,28.58
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Grenoble,45.19146,5.71453,195.0,478.775,1149.1,52.67
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Lyon-Part-Dieu,45.76059,4.85944,118.29,390.917,938.2,43.0
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,113.0,402.83,966.8,44.31
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Marseille-St-Charles,43.30273,5.38065,183.4,658.544,1580.5,72.44
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Montbard,47.61872,4.33615,62.17,199.36,478.5,21.93
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Mâcon-Loché-TGV,46.2829,4.77895,96.0,337.31,809.5,37.1
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Nîmes Pont-du-Gard,43.81681,4.50768,164.5,582.737,1398.6,64.1
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de St-Avre-la-Chambre,45.3531,6.30288,253.14,489.113,1173.9,53.8
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Valence-TGV,44.99137,4.97894,130.38,472.058,1132.9,51.93
+Gare de Paris-Gare-de-Lyon,48.84492,2.37346,Gare de Valence-Ville,44.92807,4.89329,137.0,475.853,1142.0,52.34
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Angers-St-Laud,47.46443,-0.55695,83.4,262.66,630.4,28.89
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Angoulême,45.65393,0.16453,104.33,389.99,936.0,42.9
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Bordeaux-St-Jean,44.82654,-0.55619,128.0,497.148,1193.2,54.69
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Chatellerault,46.81856,0.54922,76.0,260.882,626.1,28.7
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Lamballe,48.46592,-2.51149,129.0,357.386,857.7,39.31
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Laval,48.07625,-0.76094,77.6,242.615,582.3,26.69
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Le Mans,47.99558,0.19214,60.42,183.04,439.3,20.13
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Massy-TGV,48.72603,2.26157,10.0,13.445,32.3,1.48
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Nantes,47.2175,-1.54193,118.0,339.222,814.1,37.31
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Niort,46.31935,-0.45439,114.5,349.2,838.1,38.41
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Poitiers,46.58218,0.33308,83.0,291.893,700.5,32.11
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Redon,47.65176,-2.08788,127.0,352.186,845.2,38.74
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Rennes,48.10352,-1.67233,89.57,305.563,733.4,33.61
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Sablé-sur-Sarthe,47.84172,-0.34205,68.2,225.986,542.4,24.86
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de St-Brieuc,48.50722,-2.76547,156.2,375.284,900.7,41.28
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de St-Maixent (Deux-Sèvr.),46.40631,-0.20131,97.0,330.172,792.4,36.32
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de St-Pierre-des-Corps,47.38573,0.72505,60.17,200.529,481.3,22.06
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Toulouse-Matabiau,43.61146,1.45356,248.0,585.436,1405.0,64.4
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Vannes,47.66532,-2.75252,142.0,397.673,954.4,43.74
+Gare de Paris-Montparnasse 1-2,48.84063,2.31989,Gare de Vendôme-Villiers-s-Loir,47.82032,1.01967,44.0,148.739,357.0,16.36
+Gare de Pau,43.29167,-0.36965,Gare de Dax,43.72067,-1.05032,52.33,72.749,174.6,8.0
+Gare de Pau,43.29167,-0.36965,Gare de Lourdes,43.10043,-0.04219,28.0,34.023,81.7,3.74
+Gare de Pau,43.29167,-0.36965,Gare de Orthez,43.4841,-0.76762,26.0,38.64,92.7,4.25
+Gare de Perpignan,42.69607,2.87962,Gare de Narbonne,43.19103,3.00596,36.5,56.007,134.4,6.16
+Gare de Plouaret-Trégor,48.60619,-3.46681,Gare de Guingamp,48.55554,-3.14272,16.0,24.505,58.8,2.7
+Gare de Plouaret-Trégor,48.60619,-3.46681,Gare de Morlaix,48.57798,-3.83276,17.5,27.105,65.1,2.98
+Gare de Poitiers,46.58218,0.33308,Gare de Angoulême,45.65393,0.16453,45.62,104.064,249.8,11.45
+Gare de Poitiers,46.58218,0.33308,Gare de Bordeaux-St-Jean,44.82654,-0.55619,65.33,207.134,497.1,22.78
+Gare de Poitiers,46.58218,0.33308,Gare de Chatellerault,46.81856,0.54922,17.75,31.034,74.5,3.41
+Gare de Poitiers,46.58218,0.33308,Gare de Futuroscope,46.66985,0.3772,7.5,10.317,24.8,1.13
+Gare de Poitiers,46.58218,0.33308,Gare de Niort,46.31935,-0.45439,52.25,67.056,160.9,7.38
+Gare de Poitiers,46.58218,0.33308,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,86.18,291.893,700.5,32.11
+Gare de Poitiers,46.58218,0.33308,Gare de St-Maixent (Deux-Sèvr.),46.40631,-0.20131,37.0,45.356,108.9,4.99
+Gare de Poitiers,46.58218,0.33308,Gare de St-Pierre-des-Corps,47.38573,0.72505,36.92,94.197,226.1,10.36
+Gare de Pornichet,47.27048,-2.34474,Gare de La Baule-Escoublac,47.28862,-2.38923,10.0,3.917,9.4,0.43
+Gare de Pornichet,47.27048,-2.34474,Gare de St-Nazaire,47.28647,-2.21107,12.5,10.242,24.6,1.13
+Gare de Quimper,47.99466,-4.0921,Gare de Lorient,47.7552,-3.36635,33.5,60.343,144.8,6.64
+Gare de Quimper,47.99466,-4.0921,Gare de Rosporden,47.96019,-3.83276,11.0,19.688,47.3,2.17
+Gare de Quimperlé,47.86906,-3.55301,Gare de Lorient,47.7552,-3.36635,13.5,18.836,45.2,2.07
+Gare de Quimperlé,47.86906,-3.55301,Gare de Quimper,47.99466,-4.0921,26.5,42.536,102.1,4.68
+Gare de Quimperlé,47.86906,-3.55301,Gare de Rosporden,47.96019,-3.83276,16.5,23.188,55.7,2.55
+Gare de Rang du Fl. Verton Ber.,50.41581,1.64808,Gare de Etaples Le Touquet,50.51672,1.6425,7.5,11.231,27.0,1.24
+Gare de Redon,47.65176,-2.08788,Gare de Nantes,47.2175,-1.54193,68.0,63.407,152.2,6.97
+Gare de Redon,47.65176,-2.08788,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,128.0,352.186,845.2,38.74
+Gare de Redon,47.65176,-2.08788,Gare de Rennes,48.10352,-1.67233,37.0,59.042,141.7,6.49
+Gare de Redon,47.65176,-2.08788,Gare de Vannes,47.66532,-2.75252,26.75,49.817,119.6,5.48
+Gare de Reims,49.25907,4.02402,Gare de Paris-Est,48.87657,2.35915,49.2,128.565,308.6,14.14
+Gare de Reims,49.25907,4.02402,Gare de Rethel,49.50457,4.37028,26.0,37.073,89.0,4.08
+Gare de Remiremont,48.01637,6.59904,Gare de Epinal,48.17808,6.44156,22.67,21.457,51.5,2.36
+Gare de Rennes,48.10352,-1.67233,Gare de Dol,48.54298,-1.75047,37.6,49.222,118.1,5.41
+Gare de Rennes,48.10352,-1.67233,Gare de Lamballe,48.46592,-2.51149,42.0,74.045,177.7,8.14
+Gare de Rennes,48.10352,-1.67233,Gare de Laval,48.07625,-0.76094,29.11,67.781,162.7,7.46
+Gare de Rennes,48.10352,-1.67233,Gare de Le Mans,47.99558,0.19214,50.0,139.149,334.0,15.31
+Gare de Rennes,48.10352,-1.67233,Gare de Massy-TGV,48.72603,2.26157,84.0,298.53,716.5,32.84
+Gare de Rennes,48.10352,-1.67233,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,95.8,305.563,733.4,33.61
+Gare de Rennes,48.10352,-1.67233,Gare de Redon,47.65176,-2.08788,39.75,59.042,141.7,6.49
+Gare de Rennes,48.10352,-1.67233,Gare de St-Brieuc,48.50722,-2.76547,50.14,92.505,222.0,10.18
+Gare de Rennes,48.10352,-1.67233,Gare de St-Malo,48.64665,-2.00462,48.0,65.211,156.5,7.17
+Gare de Rennes,48.10352,-1.67233,Gare de Vannes,47.66532,-2.75252,59.83,94.169,226.0,10.36
+Gare de Rennes,48.10352,-1.67233,Gare de Vitré,48.12242,-1.21197,20.33,34.253,82.2,3.77
+Gare de Rethel,49.50457,4.37028,Gare de Charleville-Mézières,49.76742,4.72485,30.5,38.822,93.2,4.27
+Gare de Rethel,49.50457,4.37028,Gare de Reims,49.25907,4.02402,26.5,37.073,89.0,4.08
+Gare de Rosporden,47.96019,-3.83276,Gare de Quimper,47.99466,-4.0921,14.5,19.688,47.3,2.17
+Gare de Rosporden,47.96019,-3.83276,Gare de Quimperlé,47.86906,-3.55301,15.5,23.188,55.7,2.55
+Gare de Roubaix,50.69535,3.16302,Gare de Croix Wasquehal,50.67855,3.13809,5.0,2.565,6.2,0.28
+Gare de Roubaix,50.69535,3.16302,Gare de Tourcoing,50.71673,3.16801,5.0,2.404,5.8,0.26
+Gare de Rouen-Rive-Droite,49.44903,1.09415,Gare de Le Havre,49.49265,0.12484,50.0,70.231,168.6,7.73
+Gare de Rouen-Rive-Droite,49.44903,1.09415,Gare de Mantes-la-Jolie,48.98969,1.70329,51.0,67.594,162.2,7.44
+Gare de Rouen-Rive-Droite,49.44903,1.09415,Gare de Versailles-Chantiers,48.79557,2.13546,84.0,105.017,252.0,11.55
+Gare de Saarbrücken /Sarrebruck,49.24068,6.99098,Gare de Forbach,49.18949,6.90185,10.5,8.623,20.7,0.95
+Gare de Saarbrücken /Sarrebruck,49.24068,6.99098,Gare de Kaiserslautern-Hbf,49.43631,7.76859,38.0,60.412,145.0,6.65
+Gare de Saarbrücken /Sarrebruck,49.24068,6.99098,Gare de Paris-Est,48.87657,2.35915,112.5,339.968,815.9,37.4
+Gare de Sablé-sur-Sarthe,47.84172,-0.34205,Gare de Angers-St-Laud,47.46443,-0.55695,23.0,44.948,107.9,4.94
+Gare de Sablé-sur-Sarthe,47.84172,-0.34205,Gare de Le Mans,47.99558,0.19214,23.0,43.343,104.0,4.77
+Gare de Sablé-sur-Sarthe,47.84172,-0.34205,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,69.5,225.986,542.4,24.86
+Gare de Sallanches-Comb.Megève,45.93567,6.63647,Gare de Cluses (Hte-Savoie),46.06142,6.58268,21.33,14.592,35.0,1.61
+Gare de Sallanches-Comb.Megève,45.93567,6.63647,Gare de St-Gervais-L-B-Le-Fayet,45.90647,6.70072,10.0,5.938,14.3,0.65
+Gare de Sarrebourg,48.73794,7.05278,Gare de Lunéville,48.58799,6.49703,24.5,44.104,105.8,4.85
+Gare de Sarrebourg,48.73794,7.05278,Gare de Nancy-Ville,48.68978,6.17427,42.0,64.697,155.3,7.12
+Gare de Sarrebourg,48.73794,7.05278,Gare de Saverne,48.74478,7.36215,18.0,22.706,54.5,2.5
+Gare de Saumur,47.26897,-0.07143,Gare de Angers-St-Laud,47.46443,-0.55695,23.0,42.551,102.1,4.68
+Gare de Saumur,47.26897,-0.07143,Gare de St-Pierre-des-Corps,47.38573,0.72505,37.25,61.437,147.4,6.76
+Gare de Saverne,48.74478,7.36215,Gare de Sarrebourg,48.73794,7.05278,19.5,22.706,54.5,2.5
+Gare de Saverne,48.74478,7.36215,Gare de Strasbourg,48.58517,7.73397,26.0,32.577,78.2,3.58
+Gare de Sedan,49.69486,4.92999,Gare de Charleville-Mézières,49.76742,4.72485,14.0,16.813,40.4,1.85
+Gare de St-Avre-la-Chambre,45.3531,6.30288,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,41.4,38.481,92.4,4.23
+Gare de St-Avre-la-Chambre,45.3531,6.30288,Gare de Mâcon-Loché-TGV,46.2829,4.77895,167.0,157.004,376.8,17.27
+Gare de St-Avre-la-Chambre,45.3531,6.30288,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,249.25,489.113,1173.9,53.8
+Gare de St-Avre-la-Chambre,45.3531,6.30288,Gare de St-Jean-de-Maurienne-A.,45.27784,6.3542,11.75,9.284,22.3,1.02
+Gare de St-Avre-la-Chambre,45.3531,6.30288,Gare de St-Michel-Valloire,45.21725,6.47112,29.25,20.042,48.1,2.2
+Gare de St-Brieuc,48.50722,-2.76547,Gare de Brest,48.38808,-4.47892,71.0,127.107,305.1,13.98
+Gare de St-Brieuc,48.50722,-2.76547,Gare de Guingamp,48.55554,-3.14272,19.71,28.302,67.9,3.11
+Gare de St-Brieuc,48.50722,-2.76547,Gare de Lamballe,48.46592,-2.51149,11.33,19.279,46.3,2.12
+Gare de St-Brieuc,48.50722,-2.76547,Gare de Morlaix,48.57798,-3.83276,43.0,78.989,189.6,8.69
+Gare de St-Brieuc,48.50722,-2.76547,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,136.0,375.284,900.7,41.28
+Gare de St-Brieuc,48.50722,-2.76547,Gare de Rennes,48.10352,-1.67233,50.0,92.505,222.0,10.18
+Gare de St-Dié-des-Vosges,48.28224,6.94806,Gare de Lunéville,48.58799,6.49703,32.0,47.586,114.2,5.23
+Gare de St-Dié-des-Vosges,48.28224,6.94806,Gare de Nancy-Ville,48.68978,6.17427,52.5,72.863,174.9,8.01
+Gare de St-Etienne-Châteaucreux,45.44338,4.4,Gare de Lyon-Part-Dieu,45.76059,4.85944,50.83,50.231,120.6,5.53
+Gare de St-Gervais-L-B-Le-Fayet,45.90647,6.70072,Gare de Sallanches-Comb.Megève,45.93567,6.63647,9.0,5.938,14.3,0.65
+Gare de St-Jean-de-Luz-Ciboure,43.38585,-1.66116,Gare de Biarritz,43.45938,-1.54601,13.5,12.387,29.7,1.36
+Gare de St-Jean-de-Luz-Ciboure,43.38585,-1.66116,Gare de Hendaye,43.35299,-1.78187,16.6,10.422,25.0,1.15
+Gare de St-Jean-de-Maurienne-A.,45.27784,6.3542,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,39.5,47.048,112.9,5.18
+Gare de St-Jean-de-Maurienne-A.,45.27784,6.3542,Gare de Modane,45.19356,6.65918,32.5,25.662,61.6,2.82
+Gare de St-Jean-de-Maurienne-A.,45.27784,6.3542,Gare de St-Avre-la-Chambre,45.3531,6.30288,10.5,9.284,22.3,1.02
+Gare de St-Jean-de-Maurienne-A.,45.27784,6.3542,Gare de St-Michel-Valloire,45.21725,6.47112,15.5,11.369,27.3,1.25
+Gare de St-Maixent (Deux-Sèvr.),46.40631,-0.20131,Gare de Niort,46.31935,-0.45439,18.5,21.701,52.1,2.39
+Gare de St-Maixent (Deux-Sèvr.),46.40631,-0.20131,Gare de Poitiers,46.58218,0.33308,33.33,45.356,108.9,4.99
+Gare de St-Maixent (Deux-Sèvr.),46.40631,-0.20131,Gare de St-Pierre-des-Corps,47.38573,0.72505,54.0,129.711,311.3,14.27
+Gare de St-Malo,48.64665,-2.00462,Gare de Dol,48.54298,-1.75047,13.0,21.967,52.7,2.42
+Gare de St-Malo,48.64665,-2.00462,Gare de Rennes,48.10352,-1.67233,43.0,65.211,156.5,7.17
+Gare de St-Michel-Valloire,45.21725,6.47112,Gare de Modane,45.19356,6.65918,19.4,14.972,35.9,1.65
+Gare de St-Michel-Valloire,45.21725,6.47112,Gare de St-Jean-de-Maurienne-A.,45.27784,6.3542,14.0,11.369,27.3,1.25
+Gare de St-Nazaire,47.28647,-2.21107,Gare de La Baule-Escoublac,47.28862,-2.38923,17.0,13.444,32.3,1.48
+Gare de St-Nazaire,47.28647,-2.21107,Gare de Nantes,47.2175,-1.54193,38.33,51.1,122.6,5.62
+Gare de St-Nazaire,47.28647,-2.21107,Gare de Pornichet,47.27048,-2.34474,13.0,10.242,24.6,1.13
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Angers-St-Laud,47.46443,-0.55695,54.6,96.87,232.5,10.66
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Angoulême,45.65393,0.16453,61.5,197.346,473.6,21.71
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,268.0,446.038,1070.5,49.06
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Chatellerault,46.81856,0.54922,35.27,64.475,154.7,7.09
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Massy-TGV,48.72603,2.26157,55.71,187.807,450.7,20.66
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Niort,46.31935,-0.45439,70.33,148.719,356.9,16.36
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,63.5,200.529,481.3,22.06
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Poitiers,46.58218,0.33308,40.92,94.197,226.1,10.36
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Saumur,47.26897,-0.07143,34.0,61.437,147.4,6.76
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Tours,47.38981,0.69351,12.0,2.419,5.8,0.27
+Gare de St-Pierre-des-Corps,47.38573,0.72505,Gare de Vendôme-Villiers-s-Loir,47.82032,1.01967,25.18,53.15,127.6,5.85
+Gare de St-Raphaël-Valescure,43.42361,6.76901,Gare de Cannes,43.55391,7.01973,26.0,24.888,59.7,2.74
+Gare de St-Raphaël-Valescure,43.42361,6.76901,Gare de Les Arcs-Draguignan,43.45573,6.48246,16.5,23.417,56.2,2.58
+Gare de St-Raphaël-Valescure,43.42361,6.76901,Gare de Toulon,43.12832,5.92946,57.0,75.506,181.2,8.31
+Gare de Strasbourg,48.58517,7.73397,Gare de Baden-Baden,48.7903,8.19119,39.0,40.593,97.4,4.47
+Gare de Strasbourg,48.58517,7.73397,Gare de Champagne-Ardenne,49.21164,3.98879,81.75,282.548,678.1,31.08
+Gare de Strasbourg,48.58517,7.73397,Gare de Colmar,48.07315,7.34708,33.14,63.734,153.0,7.01
+Gare de Strasbourg,48.58517,7.73397,Gare de Karlsruhe-Hbf,48.99441,8.40029,45.67,66.755,160.2,7.34
+Gare de Strasbourg,48.58517,7.73397,Gare de Lorraine-TGV,48.94779,6.16978,47.2,121.562,291.7,13.37
+Gare de Strasbourg,48.58517,7.73397,Gare de Metz-Ville,49.10979,6.1772,81.54,128.019,307.2,14.08
+Gare de Strasbourg,48.58517,7.73397,Gare de Mulhouse,47.7418,7.34285,64.5,98.193,235.7,10.8
+Gare de Strasbourg,48.58517,7.73397,Gare de Nancy-Ville,48.68978,6.17427,90.4,115.229,276.6,12.68
+Gare de Strasbourg,48.58517,7.73397,Gare de Offenburg,48.47647,7.94672,25.0,19.793,47.5,2.18
+Gare de Strasbourg,48.58517,7.73397,Gare de Paris-Est,48.87657,2.35915,126.43,395.58,949.4,43.51
+Gare de Strasbourg,48.58517,7.73397,Gare de Saverne,48.74478,7.36215,21.5,32.577,78.2,3.58
+Gare de Strasbourg,48.58517,7.73397,Gare de Sélestat,48.25964,7.4421,25.5,42.134,101.1,4.63
+Gare de Stuttgart,48.78364,9.18054,Gare de Karlsruhe-Hbf,48.99441,8.40029,38.33,61.692,148.1,6.79
+Gare de Surgères,46.11342,-0.76213,Gare de La Rochelle-Ville,46.1527,-1.1453,21.5,29.856,71.7,3.28
+Gare de Surgères,46.11342,-0.76213,Gare de Niort,46.31935,-0.45439,21.75,32.949,79.1,3.62
+Gare de Sète,43.41281,3.6964,Gare de Agde,43.31757,3.46602,15.0,21.43,51.4,2.36
+Gare de Sète,43.41281,3.6964,Gare de Béziers,43.33623,3.21922,25.75,39.509,94.8,4.35
+Gare de Sète,43.41281,3.6964,Gare de Montpellier-Saint-Roch,43.60583,3.88236,18.75,26.192,62.9,2.88
+Gare de Sète,43.41281,3.6964,Gare de Montpellier-Sud-France,43.59474,3.92684,20.83,27.48,66.0,3.02
+Gare de Sélestat,48.25964,7.4421,Gare de Colmar,48.07315,7.34708,14.5,21.908,52.6,2.41
+Gare de Sélestat,48.25964,7.4421,Gare de Strasbourg,48.58517,7.73397,23.0,42.134,101.1,4.63
+Gare de TGV Haute-Picardie,49.8592,2.83165,Gare de Arras,50.28682,2.78113,22.0,47.7,114.5,5.25
+Gare de TGV Haute-Picardie,49.8592,2.83165,Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,34.5,96.964,232.7,10.67
+Gare de TGV Haute-Picardie,49.8592,2.83165,Gare de Lille Europe,50.63885,3.07575,32.0,88.44,212.3,9.73
+Gare de TGV Haute-Picardie,49.8592,2.83165,Gare de Lille Flandres,50.6362,3.07102,46.0,88.087,211.4,9.69
+Gare de TGV Haute-Picardie,49.8592,2.83165,Gare de Tourcoing,50.71673,3.16801,46.75,98.332,236.0,10.82
+Gare de Tarbes,43.2398,0.06941,Gare de Lourdes,43.10043,-0.04219,14.5,17.952,43.1,1.97
+Gare de Thionville,49.35392,6.16885,Gare de Luxembourg,49.59965,6.13401,32.71,27.448,65.9,3.02
+Gare de Thionville,49.35392,6.16885,Gare de Metz-Ville,49.10979,6.1772,22.5,27.162,65.2,2.99
+Gare de Thonon-les-Bains,46.36898,6.48156,Gare de Annemasse,46.19923,6.23639,42.86,26.677,64.0,2.93
+Gare de Thonon-les-Bains,46.36898,6.48156,Gare de Evian-les-Bains,46.39789,6.57747,12.0,8.031,19.3,0.88
+Gare de Torino PS (Turin),45.07389,7.66751,Gare de Milano-Porta-Garibaldi,45.48496,9.18759,88.67,127.453,305.9,14.02
+Gare de Torino PS (Turin),45.07389,7.66751,Gare de Oulx-Cesana-Clav-Sestri,45.03879,6.83154,63.0,65.801,157.9,7.24
+Gare de Torino PS (Turin),45.07389,7.66751,Gare de Vercelli,45.32911,8.41484,36.0,65.087,156.2,7.16
+Gare de Toulon,43.12832,5.92946,Gare de Aix-en-Provence-TGV,43.45515,5.31726,53.6,61.467,147.5,6.76
+Gare de Toulon,43.12832,5.92946,Gare de Avignon-TGV,43.92196,4.78615,69.5,127.649,306.4,14.04
+Gare de Toulon,43.12832,5.92946,Gare de Hyères,43.10886,6.1242,29.0,15.959,38.3,1.76
+Gare de Toulon,43.12832,5.92946,Gare de Les Arcs-Draguignan,43.45573,6.48246,41.0,57.713,138.5,6.35
+Gare de Toulon,43.12832,5.92946,Gare de Marseille-St-Charles,43.30273,5.38065,46.0,48.534,116.5,5.34
+Gare de Toulon,43.12832,5.92946,Gare de St-Raphaël-Valescure,43.42361,6.76901,59.5,75.506,181.2,8.31
+Gare de Toulouse-Matabiau,43.61146,1.45356,Gare de Agen,44.20797,0.6209,57.0,94.096,225.8,10.35
+Gare de Toulouse-Matabiau,43.61146,1.45356,Gare de Bordeaux-St-Jean,44.82654,-0.55619,121.5,209.591,503.0,23.06
+Gare de Toulouse-Matabiau,43.61146,1.45356,Gare de Carcassonne,43.21771,2.35188,42.33,84.772,203.5,9.32
+Gare de Toulouse-Matabiau,43.61146,1.45356,Gare de Montauban-Ville-Bourbon,44.01464,1.34197,28.33,45.731,109.8,5.03
+Gare de Toulouse-Matabiau,43.61146,1.45356,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,254.5,585.436,1405.0,64.4
+Gare de Tourcoing,50.71673,3.16801,Gare de Aéropt-C-de-Gaulle-TGV,49.00402,2.57159,64.75,195.244,468.6,21.48
+Gare de Tourcoing,50.71673,3.16801,Gare de Roubaix,50.69535,3.16302,3.0,2.404,5.8,0.26
+Gare de Tourcoing,50.71673,3.16801,Gare de TGV Haute-Picardie,49.8592,2.83165,39.75,98.332,236.0,10.82
+Gare de Tours,47.38981,0.69351,Gare de Chatellerault,46.81856,0.54922,45.0,64.472,154.7,7.09
+Gare de Tours,47.38981,0.69351,Gare de St-Pierre-des-Corps,47.38573,0.72505,5.5,2.419,5.8,0.27
+Gare de Valence-TGV,44.99137,4.97894,Gare de Avignon-TGV,43.92196,4.78615,40.5,119.931,287.8,13.19
+Gare de Valence-TGV,44.99137,4.97894,Gare de Lyon-Part-Dieu,45.76059,4.85944,41.64,86.068,206.6,9.47
+Gare de Valence-TGV,44.99137,4.97894,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,25.5,81.501,195.6,8.97
+Gare de Valence-TGV,44.99137,4.97894,Gare de Nîmes,43.83229,4.36584,50.0,137.819,330.8,15.16
+Gare de Valence-TGV,44.99137,4.97894,Gare de Nîmes Pont-du-Gard,43.81681,4.50768,45.2,135.907,326.2,14.95
+Gare de Valence-TGV,44.99137,4.97894,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,136.33,472.058,1132.9,51.93
+Gare de Valence-Ville,44.92807,4.89329,Gare de Lyon-Saint-Exupery-Tgv,45.72093,5.07583,34.83,89.337,214.4,9.83
+Gare de Valence-Ville,44.92807,4.89329,Gare de Montélimar,44.559,4.74479,24.5,42.695,102.5,4.7
+Gare de Valence-Ville,44.92807,4.89329,Gare de Mâcon-Loché-TGV,46.2829,4.77895,48.0,150.96,362.3,16.61
+Gare de Valence-Ville,44.92807,4.89329,Gare de Paris-Gare-de-Lyon,48.84492,2.37346,142.4,475.853,1142.0,52.34
+Gare de Valenciennes,50.36318,3.51713,Gare de Douai,50.37168,3.08996,29.8,30.322,72.8,3.34
+Gare de Valognes,49.50539,-1.48032,Gare de Carentan,49.3018,-1.2421,17.0,28.462,68.3,3.13
+Gare de Valognes,49.50539,-1.48032,Gare de Cherbourg,49.6335,-1.62147,44.0,17.514,42.0,1.93
+Gare de Vannes,47.66532,-2.75252,Gare de Auray,47.68019,-3.0,14.0,18.609,44.7,2.05
+Gare de Vannes,47.66532,-2.75252,Gare de Lorient,47.7552,-3.36635,26.4,47.016,112.8,5.17
+Gare de Vannes,47.66532,-2.75252,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,148.0,397.673,954.4,43.74
+Gare de Vannes,47.66532,-2.75252,Gare de Redon,47.65176,-2.08788,29.67,49.817,119.6,5.48
+Gare de Vannes,47.66532,-2.75252,Gare de Rennes,48.10352,-1.67233,60.6,94.169,226.0,10.36
+Gare de Vendôme-Villiers-s-Loir,47.82032,1.01967,Gare de Massy-TGV,48.72603,2.26157,39.0,136.385,327.3,15.0
+Gare de Vendôme-Villiers-s-Loir,47.82032,1.01967,Gare de Paris-Montparnasse 1-2,48.84063,2.31989,49.57,148.739,357.0,16.36
+Gare de Vendôme-Villiers-s-Loir,47.82032,1.01967,Gare de St-Pierre-des-Corps,47.38573,0.72505,22.33,53.15,127.6,5.85
+Gare de Vercelli,45.32911,8.41484,Gare de Novara,45.45074,8.62495,18.0,21.27,51.0,2.34
+Gare de Vercelli,45.32911,8.41484,Gare de Torino PS (Turin),45.07389,7.66751,49.5,65.087,156.2,7.16
+Gare de Versailles-Chantiers,48.79557,2.13546,Gare de Chambéry-Chal.-les-Eaux,45.57104,5.9198,227.0,458.664,1100.8,50.45
+Gare de Versailles-Chantiers,48.79557,2.13546,Gare de Evreux - Normandie,49.01856,1.14989,72.0,76.204,182.9,8.38
+Gare de Versailles-Chantiers,48.79557,2.13546,Gare de Mantes-la-Jolie,48.98969,1.70329,35.5,38.276,91.9,4.21
+Gare de Versailles-Chantiers,48.79557,2.13546,Gare de Massy-Palaiseau,48.7249,2.2566,17.0,11.86,28.5,1.3
+Gare de Versailles-Chantiers,48.79557,2.13546,Gare de Rouen-Rive-Droite,49.44903,1.09415,101.0,105.017,252.0,11.55
+Gare de Vitry-le-François,48.71773,4.58723,Gare de Bar-le-Duc,48.77363,5.16702,27.33,42.976,103.1,4.73
+Gare de Vitry-le-François,48.71773,4.58723,Gare de Châlons-en-Champagne,48.95551,4.34895,20.33,31.683,76.0,3.49
+Gare de Vitré,48.12242,-1.21197,Gare de Laval,48.07625,-0.76094,20.5,33.895,81.3,3.73
+Gare de Vitré,48.12242,-1.21197,Gare de Rennes,48.10352,-1.67233,22.75,34.253,82.2,3.77

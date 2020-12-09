@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+}
+
+#mapid, #main {
+    height: 100%;
+    padding: 0;
+}
+
+#trajet {
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+}

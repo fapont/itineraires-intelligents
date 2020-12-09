@@ -1,0 +1,32 @@
+{% block parcours %}
+
+<li class="list-group-item">
+    <div class="row h-100">
+      <div class="col-2 p-0">
+          {% if trajet.type == "tgv" %}
+          <span class="badge badge-pill badge-danger mt-3">TGV</span>
+          {% elif trajet.type == "ter" %}
+          <span class="badge badge-pill badge-success mt-3">TER</span>
+          {% elif trajet.type == "marche" %}
+          <img src="../static/img/walk.svg" alt="Walk" width="100%" height="100%">
+          {% elif trajet.type == "bus" %}
+          <span class="badge badge-pill badge-warning mt-3">BUS</span>
+          {% elif trajet.type == "intercites" %}
+          <span class="badge badge-pill badge-info mt-3">INTER.</span>
+          {% elif trajet.type == "avion" %}
+          <img src="../static/img/airplane.svg" alt="Airplane" width="100%" height="100%">
+          {% else %}
+          <span></span>
+          {% endif %}
+      </div>
+      <div class="col ml-3">
+        <div class="row">
+          Carbone: {{trajet.co2}} gCo2e
+        </div>
+        <div class="row">
+          Temps: {{trajet.temps}} min
+        </div>
+      </div>
+    </div>
+  </li>
+{% endblock %}
