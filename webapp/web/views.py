@@ -41,7 +41,7 @@ def compute_trajet():
     data = compute_path(depart, arrivee, duree=s_temps, distance=s_distance, empreinte_carbone=s_ecologie, prix=s_prix)
     
     # Création des données pour l'affichage du trajet
-    colors = {"ter": "green", "marche": "black", "tgv": "red", "bus": "yellow", "avion": "white", "intercites": "blue"}
+    colors = {"ter": "green", "marche": "black", "tgv": "red", "bus": "yellow", "avions": "white", "intercites": "blue"}
     types = [(e[0], len(list(e[1]))) for e in groupby(data["transport"])]
     index = [0] + list(np.cumsum([e[1] for e in types]))
     index[-1] += 1
