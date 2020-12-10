@@ -11,6 +11,10 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     json = {}
+    s_distance = 5
+    s_temps = 5
+    s_ecologie = 5
+    s_prix = 5
     return render_template('index.html', **locals())
 
 
@@ -19,10 +23,12 @@ def compute_trajet():
     # Récupération des coordonnées des adresses
     from_url = "https://api-adresse.data.gouv.fr/search/?q=" + quote(request.form["adress-from"]) + "&type=&autocomplete=1"
     to_url = "https://api-adresse.data.gouv.fr/search/?q=" + quote(request.form["adress-to"]) + "&type=&autocomplete=1"
-    adress_from = request.form["adress-from"]
-    adress_to = request.form["adress-to"]
     fr = j.loads(requests.get(from_url).content.decode())["features"][0]["geometry"]["coordinates"]
     to = j.loads(requests.get(to_url).content.decode())["features"][0]["geometry"]["coordinates"]
+
+    # Création des données de sauvegarde pour la session suivante
+    adress_from = request.form["adress-from"]
+    adress_to = request.form["adress-to"]
 
     # Données du formulaire
     s_distance = int(request.form["score-distance"])
@@ -31,7 +37,6 @@ def compute_trajet():
     s_prix = int(request.form["score-prix"])
     depart = (float(fr[1]), float(fr[0]))
     arrivee = (float(to[1]), float(to[0]))
-    print(fr, to)
     # Calcul du plus court chemin
     data = compute_path(depart, arrivee, duree=s_temps, distance=s_distance, empreinte_carbone=s_ecologie, prix=s_prix)
     

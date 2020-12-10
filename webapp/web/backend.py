@@ -173,5 +173,5 @@ def compute_path(depart: tuple, arrivee: tuple, duree: int=10, distance: int=1, 
     with open('data/rel', 'r') as in_f: # chemin vers fichier "rel" (créé dans le graph.ipynb)
         rel = json.load(in_f)
 
-    result = shortest_path(G, depart, arrivee, rel)
+    result = shortest_path(G, depart, arrivee, rel, duree=duree, distance=distance, empreinte_carbone=empreinte_carbone, prix=prix)
     return result
