@@ -10,8 +10,8 @@ Ce programme a été réalisé pour illustrer un travail réalisé sur les rése
 Nous voulons permettre à l'utilisateur de trouver le trajet le plus optimal pour lui en fonction de ses préférences sur les 4 points ci-dessus.
 
 ## Prérequis
-- Python 3.7+
-- Les packages suivants : **flask**, **numpy**, **networkx**
+- Python 3.8+
+- Les packages suivants : **flask**, **numpy**, **networkx**, **requests**
 - Une connexion internet
 
 ## Utilisation
