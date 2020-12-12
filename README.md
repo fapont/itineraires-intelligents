@@ -1,4 +1,4 @@
-# GPS custom 
+# Itineraires intelligents
 Auteurs: **Morgan Fassier** & **Fabrice Pont**
 ## Introduction
 Ce programme a été réalisé pour illustrer un travail réalisé sur les réseaux de transports français (avion, bus, TER, TGV, intercités). Nous avons essayé de récupérer différentes bases de données nous indiquant les trajets entre différentes villes (les données ne sont pas récupéré en temps réel) ainsi que diverses caractéristiques :
