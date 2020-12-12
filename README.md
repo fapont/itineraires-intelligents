@@ -1,4 +1,4 @@
-# GPS custom 
+# Itinéraires intelligents
 Auteurs: **Morgan Fassier** & **Fabrice Pont**
 ## Introduction
 Ce programme a été réalisé pour illustrer un travail réalisé sur les réseaux de transports français (avion, bus, TER, TGV, intercités). Nous avons essayé de récupérer différentes bases de données nous indiquant les trajets entre différentes villes (les données ne sont pas récupéré en temps réel) ainsi que diverses caractéristiques :
@@ -10,8 +10,8 @@ Ce programme a été réalisé pour illustrer un travail réalisé sur les rése
 Nous voulons permettre à l'utilisateur de trouver le trajet le plus optimal pour lui en fonction de ses préférences sur les 4 points ci-dessus.
 
 ## Prérequis
-- Python 3.7+
-- Les packages suivants : **flask**, **numpy**, **networkx**
+- Python 3.8+
+- Les packages suivants : **flask**, **numpy**, **networkx**, **requests**
 - Une connexion internet
 
 ## Utilisation
@@ -43,4 +43,4 @@ Notre programme présente certaines limites:
 ## Contenu de l'archive
 Cette archive contient 2 dossiers:
 - *webapp* : contient l'application Web qui permet d'illustrer notre projet
-- *data* : contient tous les fichiers de nettoyage et traitement des données utilisées
+- *data* : contient tous les codes de nettoyage et traitement des données, les données nettoyées et traitées ainsi que les liens vers les données brutes utilisées
