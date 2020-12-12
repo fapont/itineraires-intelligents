@@ -43,4 +43,4 @@ Notre programme présente certaines limites:
 ## Contenu de l'archive
 Cette archive contient 2 dossiers:
 - *webapp* : contient l'application Web qui permet d'illustrer notre projet
-- *data* : contient tous les fichiers de nettoyage et traitement des données utilisées
+- *data* : contient tous les codes de nettoyage et traitement des données, les données nettoyées et traitées ainsi que les liens vers les données brutes utilisées
